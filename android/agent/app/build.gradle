@@ -1,0 +1,32 @@
+plugins { id 'com.android.application' }
+
+// Keep the frozen research manifest intact. AGP 8 uses namespace instead of
+// its legacy package attribute; remove only that attribute in a generated copy.
+def generatedManifest = layout.buildDirectory.file('generated/submission/AndroidManifest.xml')
+def prepareSubmissionManifest = tasks.register('prepareSubmissionManifest') {
+    inputs.file('src/main/AndroidManifest.xml')
+    outputs.file(generatedManifest)
+    doLast {
+        def target = generatedManifest.get().asFile
+        target.parentFile.mkdirs()
+        target.setText(file('src/main/AndroidManifest.xml').getText('UTF-8')
+            .replaceFirst(/\s+package="[^"]*"/, ''), 'UTF-8')
+    }
+}
+android {
+    namespace 'edu.sydney.probe'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'edu.sydney.probe'
+        minSdk 30
+        targetSdk 34
+        versionCode 109
+        versionName '0.71-service-audit'
+    }
+    sourceSets.main.manifest.srcFile(generatedManifest.get().asFile)
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+tasks.named('preBuild').configure { dependsOn prepareSubmissionManifest }

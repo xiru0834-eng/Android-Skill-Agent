@@ -1,0 +1,7 @@
+<resources>
+    <item type="id" name="prepareTitle" />
+    <item type="id" name="prepareHint" />
+    <item type="id" name="prepareStart" />
+    <item type="id" name="prepareCancel" />
+    <item type="id" name="prepareDock" />
+</resources>

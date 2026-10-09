@@ -1,0 +1,1722 @@
+{
+  "execution_authority": false,
+  "files": [
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\source-materials\\P2_3_记录交互与实际导航.md",
+      "deployed_sha256": "f2d77e83d15516c2039d8e0ef815de22c22081967a28525fab2280ff9f508e76",
+      "origin_path": "C:\\Users\\zz\\AppData\\Local\\Temp\\P2_3_记录交互与实际导航.md",
+      "origin_sha256": "f2d77e83d15516c2039d8e0ef815de22c22081967a28525fab2280ff9f508e76",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\source-materials\\P3_2_抽取参数与可复用业务流程.md",
+      "deployed_sha256": "0d8924f33f610f89e42827fbeae413f9b369065dcc4d0bbb1974d143ecac560f",
+      "origin_path": "C:\\Users\\zz\\AppData\\Local\\Temp\\P3_2_抽取参数与可复用业务流程.md",
+      "origin_sha256": "0d8924f33f610f89e42827fbeae413f9b369065dcc4d0bbb1974d143ecac560f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\source-materials\\P3_3_分层检查与授权实测.md",
+      "deployed_sha256": "35f5b90a2648a19b9c508b5d24a3e85be6652f95b268567610be313178d70c66",
+      "origin_path": "C:\\Users\\zz\\AppData\\Local\\Temp\\P3_3_分层检查与授权实测.md",
+      "origin_sha256": "35f5b90a2648a19b9c508b5d24a3e85be6652f95b268567610be313178d70c66",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\evidence\\android-phone-pad-v91-volume-r1\\A\\source-package.json",
+      "deployed_sha256": "a2e33984878d8aec080d1fa69d605d9fc762dc2cbc2db3a0d89d8e65f7ec69a0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\evidence\\android-phone-pad-v91-volume-r1\\A\\source-package.json",
+      "origin_sha256": "a2e33984878d8aec080d1fa69d605d9fc762dc2cbc2db3a0d89d8e65f7ec69a0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\evidence\\android-phone-pad-v91-volume-r1\\B\\source-package.json",
+      "deployed_sha256": "a2e33984878d8aec080d1fa69d605d9fc762dc2cbc2db3a0d89d8e65f7ec69a0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\evidence\\android-phone-pad-v91-volume-r1\\B\\source-package.json",
+      "origin_sha256": "a2e33984878d8aec080d1fa69d605d9fc762dc2cbc2db3a0d89d8e65f7ec69a0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\evidence\\single-v46\\pages-recording.json",
+      "deployed_sha256": "4cbe9a29d00db8eefc5eb7d67b0541d36d697cd73552ba88e50cd30aaf1230d3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\evidence\\single-v46\\pages-recording.json",
+      "origin_sha256": "4cbe9a29d00db8eefc5eb7d67b0541d36d697cd73552ba88e50cd30aaf1230d3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\evidence\\single-v46\\single-recording.json",
+      "deployed_sha256": "da6d1b79dc38cb90c5af5f25a67ef2fee5f833f03c1ef1bfeea2b4085f21fffa",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\evidence\\single-v46\\single-recording.json",
+      "origin_sha256": "da6d1b79dc38cb90c5af5f25a67ef2fee5f833f03c1ef1bfeea2b4085f21fffa",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\AccessibilityBindingResolver.java",
+      "deployed_sha256": "d9d643c7e8cd3149f2ac22a73f2e2ca9f9d02e7b9182b95fa1873f09107f23e0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\AccessibilityBindingResolver.java",
+      "origin_sha256": "d9d643c7e8cd3149f2ac22a73f2e2ca9f9d02e7b9182b95fa1873f09107f23e0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\AccessibilityRangeExecutor.java",
+      "deployed_sha256": "7b058176b2aae5f5b60c960a3fcd71cbb4cb2f65aca0f4809a271cd997d84c07",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\AccessibilityRangeExecutor.java",
+      "origin_sha256": "7b058176b2aae5f5b60c960a3fcd71cbb4cb2f65aca0f4809a271cd997d84c07",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillCodec.java",
+      "deployed_sha256": "2bacf4b6fae1403457a34c7336ae92d1442bcbc808aaaa040bc83c389e6a3965",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillCodec.java",
+      "origin_sha256": "2bacf4b6fae1403457a34c7336ae92d1442bcbc808aaaa040bc83c389e6a3965",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillRuntime.java",
+      "deployed_sha256": "0e820e846ca5de13e83f9b509f728672bb16765b312928c6fc8212234b42c3b3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillRuntime.java",
+      "origin_sha256": "0e820e846ca5de13e83f9b509f728672bb16765b312928c6fc8212234b42c3b3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillStore.java",
+      "deployed_sha256": "e6d5f0e3fec532271d43614422b2571438be985a8a7bff27c8c5bd43db9765b5",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableSkillStore.java",
+      "origin_sha256": "e6d5f0e3fec532271d43614422b2571438be985a8a7bff27c8c5bd43db9765b5",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableWindowGuard.java",
+      "deployed_sha256": "21d9944a720c69f40474af801b7b78b50c67ace1c472d109430480ffef3204df",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\PortableWindowGuard.java",
+      "origin_sha256": "21d9944a720c69f40474af801b7b78b50c67ace1c472d109430480ffef3204df",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\ProbeService.java",
+      "deployed_sha256": "79fd0815ff9c327ce9567b34f1953226ff1e84c52009d4c994401a9354274a4b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\ProbeService.java",
+      "origin_sha256": "79fd0815ff9c327ce9567b34f1953226ff1e84c52009d4c994401a9354274a4b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\SemanticCapabilities.java",
+      "deployed_sha256": "da6d7709e14b0d3270c89659f2d9c76b7a3dd851ba6839b6efc1f20f27698c5d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\SemanticCapabilities.java",
+      "origin_sha256": "da6d7709e14b0d3270c89659f2d9c76b7a3dd851ba6839b6efc1f20f27698c5d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\SemanticSkills.java",
+      "deployed_sha256": "92473fa01cbca2806c686ec3ce00c50767b1c043b8c215fd9772c70b1768de96",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\native-planning-candidate-v91\\app\\src\\main\\java\\edu\\sydney\\probe\\SemanticSkills.java",
+      "origin_sha256": "92473fa01cbca2806c686ec3ce00c50767b1c043b8c215fd9772c70b1768de96",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\contract_spec.json",
+      "deployed_sha256": "ca15d1ef391b2b13cfc5c52f3976eff6fc95fcb0a1faab2d2bee964d67ba5ccb",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\contract_spec.json",
+      "origin_sha256": "ca15d1ef391b2b13cfc5c52f3976eff6fc95fcb0a1faab2d2bee964d67ba5ccb",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\contracts.py",
+      "deployed_sha256": "53f113e4bf1d0594272eac0cdcb2ead1ea63c204e46e660d02e00a9d74c854ce",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\contracts.py",
+      "origin_sha256": "53f113e4bf1d0594272eac0cdcb2ead1ea63c204e46e660d02e00a9d74c854ce",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\error_codes.json",
+      "deployed_sha256": "a459a1718df8fe72f3ce8d46011a242bc9cec2ea78adbee8655f37b3fc959812",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\error_codes.json",
+      "origin_sha256": "a459a1718df8fe72f3ce8d46011a242bc9cec2ea78adbee8655f37b3fc959812",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\legacy_registry_snapshot.json",
+      "deployed_sha256": "8ec677a8d622806febcca5efa60f933bea3939ded3d2c48c23d87081294e34a0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\legacy_registry_snapshot.json",
+      "origin_sha256": "8ec677a8d622806febcca5efa60f933bea3939ded3d2c48c23d87081294e34a0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\run_checks.py",
+      "deployed_sha256": "85aa856433d14f3bfb2a21b05e09dce5020169dc916495231e9a7bcb1b451660",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\run_checks.py",
+      "origin_sha256": "85aa856433d14f3bfb2a21b05e09dce5020169dc916495231e9a7bcb1b451660",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-2-flow-contracts\\test_contracts.py",
+      "deployed_sha256": "365573a9d9521879048a80d8cedd81dec0b5b2607593d1185faae996cf84c179",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-2-flow-contracts\\test_contracts.py",
+      "origin_sha256": "365573a9d9521879048a80d8cedd81dec0b5b2607593d1185faae996cf84c179",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\checks.py",
+      "deployed_sha256": "e1d0487837d9d30cfb26f460f2a446c646295db676717315bc731e12abe9012f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\checks.py",
+      "origin_sha256": "e1d0487837d9d30cfb26f460f2a446c646295db676717315bc731e12abe9012f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\cli.py",
+      "deployed_sha256": "7c645e2f66cfe6e6c8b4b37d7b03e26e52ea92ad4a9aa23db7e9a60930239495",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\cli.py",
+      "origin_sha256": "7c645e2f66cfe6e6c8b4b37d7b03e26e52ea92ad4a9aa23db7e9a60930239495",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\compilation_context.py",
+      "deployed_sha256": "d3ff5bb0c7bcb9be4c1c9a2c69c0318cf1eaf24ad5f1fe98b7f4f04cf6a77ac4",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\compilation_context.py",
+      "origin_sha256": "d3ff5bb0c7bcb9be4c1c9a2c69c0318cf1eaf24ad5f1fe98b7f4f04cf6a77ac4",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\compiler.py",
+      "deployed_sha256": "4def42ebfe7dc7aaa80ba93e48f9757cddeca3263c8d9897b43d0d7812b55791",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\compiler.py",
+      "origin_sha256": "4def42ebfe7dc7aaa80ba93e48f9757cddeca3263c8d9897b43d0d7812b55791",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\cursor.py",
+      "deployed_sha256": "01deb7a8a6d180a3cdc8a00dcd38bef98d7fa592a46b206590cf5207dd7cd707",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\cursor.py",
+      "origin_sha256": "01deb7a8a6d180a3cdc8a00dcd38bef98d7fa592a46b206590cf5207dd7cd707",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\dependencies.py",
+      "deployed_sha256": "fafe0874da44b95dad29ea2e5ebae887d5e7d7f00f23686adb24ef3dd9fcdae4",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\dependencies.py",
+      "origin_sha256": "401391075596b2878d17309451a8917bd56d72d84e43eff6ee743ce4018baaac",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\dependency-pins.json",
+      "deployed_sha256": "d60e1a5bb2eec636e9d3187ffb7d521cae4be0356415900f00b9e66c60e18bc0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\dependency-pins.json",
+      "origin_sha256": "d60e1a5bb2eec636e9d3187ffb7d521cae4be0356415900f00b9e66c60e18bc0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\environment.py",
+      "deployed_sha256": "f004674edc5299ad9bc1f03f0a9fa7399f6964f9e3bfc2b135eb5928193cd5ba",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\environment.py",
+      "origin_sha256": "f004674edc5299ad9bc1f03f0a9fa7399f6964f9e3bfc2b135eb5928193cd5ba",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\fixtures.py",
+      "deployed_sha256": "c51d7bf2a0a7899b7baae0078857041e00decd099bc6f3171501dbd89733a97d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\fixtures.py",
+      "origin_sha256": "c51d7bf2a0a7899b7baae0078857041e00decd099bc6f3171501dbd89733a97d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\reference_checks.py",
+      "deployed_sha256": "531c82c612622d60e19ee7fd1fdc3bebd9b38c38e0173070c2b1617895b45a8c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\reference_checks.py",
+      "origin_sha256": "531c82c612622d60e19ee7fd1fdc3bebd9b38c38e0173070c2b1617895b45a8c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\run_checks.py",
+      "deployed_sha256": "e087f9e34d9a859ead8d5fea156fbfe880323e55082a74da0dd7e6923e11a73b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\run_checks.py",
+      "origin_sha256": "e087f9e34d9a859ead8d5fea156fbfe880323e55082a74da0dd7e6923e11a73b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\test_checks.py",
+      "deployed_sha256": "2af0ba9fddb24f5028afb56c0bd54275b24fe471d338eac3c105fe960d077ef4",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\test_checks.py",
+      "origin_sha256": "2af0ba9fddb24f5028afb56c0bd54275b24fe471d338eac3c105fe960d077ef4",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\test_compiler.py",
+      "deployed_sha256": "ca05e500b32858365e08234db2e056c508de1c5a72160b4bdeac00d298bd1f01",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\test_compiler.py",
+      "origin_sha256": "ca05e500b32858365e08234db2e056c508de1c5a72160b4bdeac00d298bd1f01",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\test_cursor.py",
+      "deployed_sha256": "6e9e0033e1dd8f877e43a28ee17578e675914f3b83f9b15978ce31db2dda581d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\test_cursor.py",
+      "origin_sha256": "6e9e0033e1dd8f877e43a28ee17578e675914f3b83f9b15978ce31db2dda581d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-3-flow-compiler\\test_delivery.py",
+      "deployed_sha256": "6dba96ead73be469ec03b2b0e9a70943a84eca1751b21d38d23a13cfe326ff0d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-3-flow-compiler\\test_delivery.py",
+      "origin_sha256": "6dba96ead73be469ec03b2b0e9a70943a84eca1751b21d38d23a13cfe326ff0d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\dependency-pins.json",
+      "deployed_sha256": "227a84795075d867b536c87162e0370a07e0faca3dc0bef86175dd15a2cefbdc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\dependency-pins.json",
+      "origin_sha256": "227a84795075d867b536c87162e0370a07e0faca3dc0bef86175dd15a2cefbdc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\flow_adapter.py",
+      "deployed_sha256": "d8e7f927dc3e8eeb82f047172cdb32063958369928762a3f57185e894929f013",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\flow_adapter.py",
+      "origin_sha256": "d8e7f927dc3e8eeb82f047172cdb32063958369928762a3f57185e894929f013",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\flow_store.py",
+      "deployed_sha256": "060836cf3e99bb52fa412a2587d3a8a0931302c8d5fbf687503b20f7ee52f4c7",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\flow_store.py",
+      "origin_sha256": "060836cf3e99bb52fa412a2587d3a8a0931302c8d5fbf687503b20f7ee52f4c7",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\p14deps.py",
+      "deployed_sha256": "22990a0abde8456e95808ca37fbfe3e21a6c01909d2df84613ede0bfc6717547",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\p14deps.py",
+      "origin_sha256": "85d73e3ef8c20588595faf565e0a31f831941664c560d2664f627dee900a53c2",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\records.py",
+      "deployed_sha256": "3d3f0c23d48128e16f764498765cbd5396415344250b7163afcd1bd51c60080b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\records.py",
+      "origin_sha256": "3d3f0c23d48128e16f764498765cbd5396415344250b7163afcd1bd51c60080b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\run_checks.py",
+      "deployed_sha256": "a823f1002d1f8dbc46a145215a1e75ddc5c8c2cdaf9759a1b92d2e310821a0a3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\run_checks.py",
+      "origin_sha256": "a823f1002d1f8dbc46a145215a1e75ddc5c8c2cdaf9759a1b92d2e310821a0a3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\store_cli.py",
+      "deployed_sha256": "5ae2dbf640d7b5ae01dedf68ba7c7115fb048f3da2884e597da687748affe4f1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\store_cli.py",
+      "origin_sha256": "5ae2dbf640d7b5ae01dedf68ba7c7115fb048f3da2884e597da687748affe4f1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_adapter.py",
+      "deployed_sha256": "4deaa19927b794f98a5ec1b06b476e15b371671752ffaf1c3ed1ffc06afeecfc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_adapter.py",
+      "origin_sha256": "4deaa19927b794f98a5ec1b06b476e15b371671752ffaf1c3ed1ffc06afeecfc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_cli.py",
+      "deployed_sha256": "6aeb1f81eec35f0612c0035feff804d7e32312119f428b6d7b17ad745a9364e9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_cli.py",
+      "origin_sha256": "6aeb1f81eec35f0612c0035feff804d7e32312119f428b6d7b17ad745a9364e9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_faults.py",
+      "deployed_sha256": "b70be4fd109cbdb2ef0f726f0d253c37e393789890b98523de45e81763309642",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_faults.py",
+      "origin_sha256": "b70be4fd109cbdb2ef0f726f0d253c37e393789890b98523de45e81763309642",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_hardening.py",
+      "deployed_sha256": "4901765d408dee28a3e3b6df61b48d5e8fa762a60992a6e09ee886cfe9435a99",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_hardening.py",
+      "origin_sha256": "4901765d408dee28a3e3b6df61b48d5e8fa762a60992a6e09ee886cfe9435a99",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_store.py",
+      "deployed_sha256": "2a97323254c35aece0f41724ec3c6eb34c0f5e15178f9561878649cac44ca478",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_store.py",
+      "origin_sha256": "2a97323254c35aece0f41724ec3c6eb34c0f5e15178f9561878649cac44ca478",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1-4-flow-store-adapter\\test_support.py",
+      "deployed_sha256": "91719681d5166b59f30650c40b87e90fe332cf63f7eebca8420840d04fb86e90",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1-4-flow-store-adapter\\test_support.py",
+      "origin_sha256": "91719681d5166b59f30650c40b87e90fe332cf63f7eebca8420840d04fb86e90",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\acceptance_tools.py",
+      "deployed_sha256": "3248834daa10e2fca683f532424a778c44b734e40661ab4b07cfbfc08d5ed6de",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\acceptance_tools.py",
+      "origin_sha256": "3248834daa10e2fca683f532424a778c44b734e40661ab4b07cfbfc08d5ed6de",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\android_bridge.py",
+      "deployed_sha256": "80a57ca6ad37f893169a501a0a74236c1bbdf4ce361e36608fad4f2f56f3e0f3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\android_bridge.py",
+      "origin_sha256": "80a57ca6ad37f893169a501a0a74236c1bbdf4ce361e36608fad4f2f56f3e0f3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\bundle_contract.py",
+      "deployed_sha256": "702a42030a6de1c70c5c90aec55c02900a82d44b764aa694d3a04303a168e9a2",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\bundle_contract.py",
+      "origin_sha256": "702a42030a6de1c70c5c90aec55c02900a82d44b764aa694d3a04303a168e9a2",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\bundle_store.py",
+      "deployed_sha256": "1e743a922fa7029848b9597e1d82a12ce92b711bc80a9955ab74c26f27760076",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\bundle_store.py",
+      "origin_sha256": "1e743a922fa7029848b9597e1d82a12ce92b711bc80a9955ab74c26f27760076",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\dependency-pins.json",
+      "deployed_sha256": "698faa30f4b673185f5735a9b36ba286bcbd9fa333c4f259948ba3a757752d7c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\dependency-pins.json",
+      "origin_sha256": "698faa30f4b673185f5735a9b36ba286bcbd9fa333c4f259948ba3a757752d7c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\device_inventory.py",
+      "deployed_sha256": "b1e45860c166b97a5f9539105d03c72874e46bc49f860a6782c4780da6aa869a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\device_inventory.py",
+      "origin_sha256": "b1e45860c166b97a5f9539105d03c72874e46bc49f860a6782c4780da6aa869a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evaluation_device.py",
+      "deployed_sha256": "713f28277af6cff65010d0dd7f0f703cc39a4b983329044513f1d66d2861aabd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evaluation_device.py",
+      "origin_sha256": "713f28277af6cff65010d0dd7f0f703cc39a4b983329044513f1d66d2861aabd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\emulator-5556-r3\\learning-bundle.json",
+      "deployed_sha256": "a6893f88cc375e8b5e567bfecf14e87eb6e02e36bef5ab9e991be5845bb98161",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\emulator-5556-r3\\learning-bundle.json",
+      "origin_sha256": "a6893f88cc375e8b5e567bfecf14e87eb6e02e36bef5ab9e991be5845bb98161",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\emulator-5556-r3\\memory.sqlite",
+      "deployed_sha256": "77750bb93becf646ca1518a9b783159b771031e303eaf7f924358c8f3cb94536",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\emulator-5556-r3\\memory.sqlite",
+      "origin_sha256": "77750bb93becf646ca1518a9b783159b771031e303eaf7f924358c8f3cb94536",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\EXISTING_DRAFT-bundle.json",
+      "deployed_sha256": "42678330b661fc69cbf92ccfe3a3453349037bed040cd1b515514d7968c0a639",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\EXISTING_DRAFT-bundle.json",
+      "origin_sha256": "42678330b661fc69cbf92ccfe3a3453349037bed040cd1b515514d7968c0a639",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\PARAMETERROOM-bundle.json",
+      "deployed_sha256": "851eb2b5ee9a1d088c705fe2382ff874780616967d8fd6a5170af823e8203b2f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\PARAMETERROOM-bundle.json",
+      "origin_sha256": "851eb2b5ee9a1d088c705fe2382ff874780616967d8fd6a5170af823e8203b2f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\phone-memory.sqlite",
+      "deployed_sha256": "b6a04791a4adff236c1c354926240a9fae6e6603b63ac701def4523dc11d627c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\evidence\\seed-confirmation-v4-r3\\phone-readonly\\phone-memory.sqlite",
+      "origin_sha256": "b6a04791a4adff236c1c354926240a9fae6e6603b63ac701def4523dc11d627c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\formal-plan.json",
+      "deployed_sha256": "4bd9d72803c2830cbd2e568d1ad78fb6ace41c73dce569e8a68615898b480887",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\formal-plan.json",
+      "origin_sha256": "4bd9d72803c2830cbd2e568d1ad78fb6ace41c73dce569e8a68615898b480887",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\learning_cli.py",
+      "deployed_sha256": "740d134e17f28f222529d0fe54379fa9a8531921e2a2d17df12138ab2a2e0f9e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\learning_cli.py",
+      "origin_sha256": "740d134e17f28f222529d0fe54379fa9a8531921e2a2d17df12138ab2a2e0f9e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\learning_queries.py",
+      "deployed_sha256": "ed6d03a050d62f41b759b0ac1d9a3d51a02499143ea0d47a1b6a9a6bd933dc32",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\learning_queries.py",
+      "origin_sha256": "ed6d03a050d62f41b759b0ac1d9a3d51a02499143ea0d47a1b6a9a6bd933dc32",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\material_graph.py",
+      "deployed_sha256": "2da3b1395e065a0daa654477c95f90c2e67920684aa7f49ba6377d846adbbaf9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\material_graph.py",
+      "origin_sha256": "2da3b1395e065a0daa654477c95f90c2e67920684aa7f49ba6377d846adbbaf9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\native_materials.py",
+      "deployed_sha256": "5bbb2cc49442651b9db301e57808078e7342f8e2076a7b84c2457970018408cc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\native_materials.py",
+      "origin_sha256": "5bbb2cc49442651b9db301e57808078e7342f8e2076a7b84c2457970018408cc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\navigation_controller.py",
+      "deployed_sha256": "ad7dd12fa936623ed0feb21d56fd50fdf187814429c6346d80be2dbb3bdc456b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\navigation_controller.py",
+      "origin_sha256": "ad7dd12fa936623ed0feb21d56fd50fdf187814429c6346d80be2dbb3bdc456b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\p24deps.py",
+      "deployed_sha256": "2189495fbba4dbf20dc6fdc450d44d9453432779d3c6e77b0544a0d828323263",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\p24deps.py",
+      "origin_sha256": "43cb3b80ee7f4078a66e4090a39cd1de0caef0d5236e2eb1281f13c0aae2aa2a",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_closeout.py",
+      "deployed_sha256": "d2a65f2be72ffacb39be429c0198368e764b5b7dbb6aefd992e721c73f0babfd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_closeout.py",
+      "origin_sha256": "d2a65f2be72ffacb39be429c0198368e764b5b7dbb6aefd992e721c73f0babfd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_native_checks.py",
+      "deployed_sha256": "4446fccd362a78f8bb2122356382198ff95c731015299dcbba36c3ce66c5653c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_native_checks.py",
+      "origin_sha256": "4446fccd362a78f8bb2122356382198ff95c731015299dcbba36c3ce66c5653c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_real_flow.py",
+      "deployed_sha256": "bd9d46c9024a781964462642562b27d1b94cdea87c3fa0dbebb95cd6a1eb2b2b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\run_real_flow.py",
+      "origin_sha256": "bd9d46c9024a781964462642562b27d1b94cdea87c3fa0dbebb95cd6a1eb2b2b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_acceptance.py",
+      "deployed_sha256": "ee3114357b96ffeb267895ed6aa17ea486167f37fcd8fe2929498c22d41bf023",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_acceptance.py",
+      "origin_sha256": "ee3114357b96ffeb267895ed6aa17ea486167f37fcd8fe2929498c22d41bf023",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_contract.py",
+      "deployed_sha256": "eef03acdd659f39389072ffa2005d5de38085d3c6ce1033b3d349f4fb939b221",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_contract.py",
+      "origin_sha256": "eef03acdd659f39389072ffa2005d5de38085d3c6ce1033b3d349f4fb939b221",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_material_graph.py",
+      "deployed_sha256": "8f89f6740b98476752de15c65fc80c2eaa7d5739fa1611e00c9e147a9850afe1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_material_graph.py",
+      "origin_sha256": "8f89f6740b98476752de15c65fc80c2eaa7d5739fa1611e00c9e147a9850afe1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_native.py",
+      "deployed_sha256": "680c55d3fb624ff530a85253802f106270cc0339605fe059560a1be0bcfcdc47",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_native.py",
+      "origin_sha256": "680c55d3fb624ff530a85253802f106270cc0339605fe059560a1be0bcfcdc47",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_provenance.py",
+      "deployed_sha256": "bad8a6905a97e1573dc05ee5ce1729cf5a9443ce7fe0feae78bf85fcfe9c1ae9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_provenance.py",
+      "origin_sha256": "bad8a6905a97e1573dc05ee5ce1729cf5a9443ce7fe0feae78bf85fcfe9c1ae9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_queries.py",
+      "deployed_sha256": "196d4489418f31946e2327ef767b10e060917407421fdfae9e9739421dd01956",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_queries.py",
+      "origin_sha256": "196d4489418f31946e2327ef767b10e060917407421fdfae9e9739421dd01956",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_store.py",
+      "deployed_sha256": "de3515aff5fb53d0a97b54656cc56ecaba42710913029cf79081f28b25a43692",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_store.py",
+      "origin_sha256": "de3515aff5fb53d0a97b54656cc56ecaba42710913029cf79081f28b25a43692",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_support.py",
+      "deployed_sha256": "7d003f1da4e3b3a2e599781e7ff5d2392b43b1afcf935b1a4e369c3717795ec5",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\candidate\\p2-4-learning-bundle\\test_support.py",
+      "origin_sha256": "7d003f1da4e3b3a2e599781e7ff5d2392b43b1afcf935b1a4e369c3717795ec5",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\evidence\\confirmation-v4\\round-3\\pad-parameterroom-readonly\\learning-bundle.json",
+      "deployed_sha256": "d3c8be0faf31fd32c9f250f39d49a19358880dbf98dfe86f60585e38cc57f65b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\evidence\\confirmation-v4\\round-3\\pad-parameterroom-readonly\\learning-bundle.json",
+      "origin_sha256": "d3c8be0faf31fd32c9f250f39d49a19358880dbf98dfe86f60585e38cc57f65b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\evidence\\confirmation-v4\\round-3\\pad-parameterroom-readonly\\memory.sqlite",
+      "deployed_sha256": "cdb8d5b984544373b15128f6b889b146f8c711ce25429750d7c8b8a13e35f8cd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\evidence\\confirmation-v4\\round-3\\pad-parameterroom-readonly\\memory.sqlite",
+      "origin_sha256": "cdb8d5b984544373b15128f6b889b146f8c711ce25429750d7c8b8a13e35f8cd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p1p2-seed-acceptance\\suite_runner.py",
+      "deployed_sha256": "899c70a407b24449c5e61d0a7131f42212f224a3a84570f882e7057f08746009",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p1p2-seed-acceptance\\suite_runner.py",
+      "origin_sha256": "899c70a407b24449c5e61d0a7131f42212f224a3a84570f882e7057f08746009",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\dependency-pins.json",
+      "deployed_sha256": "eebdc96d0321ea6b81072ecb905c2b69812fb0c6bc573e5d26c5ef2fbc0598ee",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\dependency-pins.json",
+      "origin_sha256": "eebdc96d0321ea6b81072ecb905c2b69812fb0c6bc573e5d26c5ef2fbc0598ee",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\learning_budget.py",
+      "deployed_sha256": "a74043442860f2c790734971fa0648b4a3d5373d6281539bac0a226259360e23",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\learning_budget.py",
+      "origin_sha256": "a74043442860f2c790734971fa0648b4a3d5373d6281539bac0a226259360e23",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\learning_ledger.py",
+      "deployed_sha256": "2526adcf77b78f749cbfb4dbbd0e6390264cb08aa1acad4502aceaf819c83465",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\learning_ledger.py",
+      "origin_sha256": "2526adcf77b78f749cbfb4dbbd0e6390264cb08aa1acad4502aceaf819c83465",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\learning_scope.py",
+      "deployed_sha256": "16ac3eb9a52a183c1d67d970adf46e3b374c5787ff2695aeb0dd00a0680b627e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\learning_scope.py",
+      "origin_sha256": "16ac3eb9a52a183c1d67d970adf46e3b374c5787ff2695aeb0dd00a0680b627e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\p21deps.py",
+      "deployed_sha256": "5b7943663fff44e80ebd6859e580f521257eebdd4857e5f072ee506772bafd2f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\p21deps.py",
+      "origin_sha256": "0ab47f8f55eedab1bedb04b2a73029f941bb5c1b7fb9511a0acf219d2605401f",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\run_checks.py",
+      "deployed_sha256": "66db65c08b3de9228053768e657a6e4056a0a819581c63213f3170bb1481d4cd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\run_checks.py",
+      "origin_sha256": "66db65c08b3de9228053768e657a6e4056a0a819581c63213f3170bb1481d4cd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\scope_cli.py",
+      "deployed_sha256": "ecc04bfa62f430588a640da55d887167e12148ec931c9d45fe75f36a28356f2f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\scope_cli.py",
+      "origin_sha256": "ecc04bfa62f430588a640da55d887167e12148ec931c9d45fe75f36a28356f2f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\source-catalog.json",
+      "deployed_sha256": "f6b21d53ae0dcc2522e8bb2bc378aebc9c3ed16e257cc64066bba01aadc84f0b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\source-catalog.json",
+      "origin_sha256": "f6b21d53ae0dcc2522e8bb2bc378aebc9c3ed16e257cc64066bba01aadc84f0b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\source_audit.py",
+      "deployed_sha256": "4b1a8e4293a4e7a4c629147c0822049e8c2064623b6e2a78e1c57d2dc1da11fd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\source_audit.py",
+      "origin_sha256": "4b1a8e4293a4e7a4c629147c0822049e8c2064623b6e2a78e1c57d2dc1da11fd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_budget.py",
+      "deployed_sha256": "897b29c9c141607167e8869269b9339e97bb626dd126c337a6893c0527cd3074",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_budget.py",
+      "origin_sha256": "897b29c9c141607167e8869269b9339e97bb626dd126c337a6893c0527cd3074",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_cli.py",
+      "deployed_sha256": "7f4b350d3a6ba38218886a92e3642936b3ed84e1bfd909f14f8f336eaf989f41",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_cli.py",
+      "origin_sha256": "7f4b350d3a6ba38218886a92e3642936b3ed84e1bfd909f14f8f336eaf989f41",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_faults.py",
+      "deployed_sha256": "215a6af2a0b5403121fcc57612f573472b258fd0587f968228195295b247f7bc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_faults.py",
+      "origin_sha256": "215a6af2a0b5403121fcc57612f573472b258fd0587f968228195295b247f7bc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_ledger.py",
+      "deployed_sha256": "d3f475274d6686dda2bec231c44bc7f0f4360d1ae9d1e1c5ce6e95c210329e2e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_ledger.py",
+      "origin_sha256": "d3f475274d6686dda2bec231c44bc7f0f4360d1ae9d1e1c5ce6e95c210329e2e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_review.py",
+      "deployed_sha256": "308ba54f67c8f4a29232798eb4a7780ed4d7393e4d6fade4966fe1dddebd9f7f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_review.py",
+      "origin_sha256": "308ba54f67c8f4a29232798eb4a7780ed4d7393e4d6fade4966fe1dddebd9f7f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_runner.py",
+      "deployed_sha256": "f27597504cec2b889b511d0e86feac523c0b0b2a787fa7dd0660bfb25563c6e9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_runner.py",
+      "origin_sha256": "f27597504cec2b889b511d0e86feac523c0b0b2a787fa7dd0660bfb25563c6e9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_scope.py",
+      "deployed_sha256": "d21c4b23e50b86c2388822888e3a8b71d600ed7fa0726ce2296e8dc52a5b5e56",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_scope.py",
+      "origin_sha256": "d21c4b23e50b86c2388822888e3a8b71d600ed7fa0726ce2296e8dc52a5b5e56",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-1-learning-scope\\test_sources.py",
+      "deployed_sha256": "bb597e23a391fc116ea54f78c175963bfeb67a618a6c7cb0497e57574559c435",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-1-learning-scope\\test_sources.py",
+      "origin_sha256": "bb597e23a391fc116ea54f78c175963bfeb67a618a6c7cb0497e57574559c435",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\API.md",
+      "deployed_sha256": "99cf7998b05183c0b14e8afa33e0eceb344748e4944c2b75dee6ccf2e860155a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\API.md",
+      "origin_sha256": "99cf7998b05183c0b14e8afa33e0eceb344748e4944c2b75dee6ccf2e860155a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\dependency-pins.json",
+      "deployed_sha256": "33a5f55dc404ddf8ed92642daef91fa43c5de0ffe443204f6f1719f61cf08887",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\dependency-pins.json",
+      "origin_sha256": "33a5f55dc404ddf8ed92642daef91fa43c5de0ffe443204f6f1719f61cf08887",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\DESIGN.md",
+      "deployed_sha256": "ed2f57cbbc67605d3a40ec91f9c17a9079646b15713504e31d6f4d35391c2e32",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\DESIGN.md",
+      "origin_sha256": "ed2f57cbbc67605d3a40ec91f9c17a9079646b15713504e31d6f4d35391c2e32",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\evaluate_fixture_dataset.py",
+      "deployed_sha256": "10206245c8aa4a1e2187db9c32c643f2940d42df7a51f6539217c97d84dfbd7b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\evaluate_fixture_dataset.py",
+      "origin_sha256": "10206245c8aa4a1e2187db9c32c643f2940d42df7a51f6539217c97d84dfbd7b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\evidence\\freeze-r2.json",
+      "deployed_sha256": "2236f48b0ca38b9ab3001bca9f859fd586718e38759219186dbba39eaf962780",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\evidence\\freeze-r2.json",
+      "origin_sha256": "2236f48b0ca38b9ab3001bca9f859fd586718e38759219186dbba39eaf962780",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\native\\edu\\sydney\\probe\\P22ReadOnlyTreeAdapter.java",
+      "deployed_sha256": "abe3f4267801380387b678dafeabf91e28a72bd2fd3c96c8093e60a9b6bfaa52",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\native\\edu\\sydney\\probe\\P22ReadOnlyTreeAdapter.java",
+      "origin_sha256": "abe3f4267801380387b678dafeabf91e28a72bd2fd3c96c8093e60a9b6bfaa52",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_capture.py",
+      "deployed_sha256": "43312b45f4ca81febb18b4793e06fdaae834d862c0d3106aeb32c97439a0f77a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_capture.py",
+      "origin_sha256": "43312b45f4ca81febb18b4793e06fdaae834d862c0d3106aeb32c97439a0f77a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_cli.py",
+      "deployed_sha256": "454652ccfdb705078db04eeb35131f2fa1889b010ea184858f30c461a608aa7b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_cli.py",
+      "origin_sha256": "454652ccfdb705078db04eeb35131f2fa1889b010ea184858f30c461a608aa7b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_contract.py",
+      "deployed_sha256": "1c867e6e6c00c9b49613102ef1c0d06b57c4332b0d64d7394dc63c745fb40aa3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_contract.py",
+      "origin_sha256": "1c867e6e6c00c9b49613102ef1c0d06b57c4332b0d64d7394dc63c745fb40aa3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_identity.py",
+      "deployed_sha256": "faa1e3943af5c312c0a7fa7875b039d2d9264e7123846fa73b44b23e258f9e37",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_identity.py",
+      "origin_sha256": "faa1e3943af5c312c0a7fa7875b039d2d9264e7123846fa73b44b23e258f9e37",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_store.py",
+      "deployed_sha256": "a201a5ab53d5d93c084336b605286b7d873c6d3d5154de9f055ca8ae38c3bc8a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_store.py",
+      "origin_sha256": "a201a5ab53d5d93c084336b605286b7d873c6d3d5154de9f055ca8ae38c3bc8a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\observation_tree.py",
+      "deployed_sha256": "d357cae666512cc14766328675747e25a6d1ad70055959fbeaaae25fae705567",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\observation_tree.py",
+      "origin_sha256": "d357cae666512cc14766328675747e25a6d1ad70055959fbeaaae25fae705567",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\p22deps.py",
+      "deployed_sha256": "44e7f2f112e530c73b95ea81f42d26ebdb37946246165833c619b427ede9a26e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\p22deps.py",
+      "origin_sha256": "4144d1a30c0f82e2e0af22cb7f100b4e6c6e54f5a03a341d28e14ff682f7f818",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\README.md",
+      "deployed_sha256": "49907040ba13daeb4254953cb2aedf07fcdf7fdd6271c010b80deb7187079b12",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\README.md",
+      "origin_sha256": "49907040ba13daeb4254953cb2aedf07fcdf7fdd6271c010b80deb7187079b12",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\run_checks.py",
+      "deployed_sha256": "f3bc1fcf087205f7e6e868d686af3992b8744174470906375b9f60f5a358fa51",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\run_checks.py",
+      "origin_sha256": "f3bc1fcf087205f7e6e868d686af3992b8744174470906375b9f60f5a358fa51",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_adapter_boundary.py",
+      "deployed_sha256": "b807abe36392b6d45bd9cfe4b82b2a950fd15b13567abe8d12a5f0b0f2ed2dd5",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_adapter_boundary.py",
+      "origin_sha256": "b807abe36392b6d45bd9cfe4b82b2a950fd15b13567abe8d12a5f0b0f2ed2dd5",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_capture.py",
+      "deployed_sha256": "e312651378ae5610a52220906f9bf122ffbe42c8cdc8edbaabaed1af80ef1274",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_capture.py",
+      "origin_sha256": "e312651378ae5610a52220906f9bf122ffbe42c8cdc8edbaabaed1af80ef1274",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_cli.py",
+      "deployed_sha256": "a996a90edf2a915757ebb8bffe3efafe7ce0b7489f12fc07a56d63ac6778617e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_cli.py",
+      "origin_sha256": "a996a90edf2a915757ebb8bffe3efafe7ce0b7489f12fc07a56d63ac6778617e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_contract.py",
+      "deployed_sha256": "bc82d66cd559a4883d03118aea5f0c9f00f5b5fb52559af0745eb7638cd46936",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_contract.py",
+      "origin_sha256": "bc82d66cd559a4883d03118aea5f0c9f00f5b5fb52559af0745eb7638cd46936",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_dataset.py",
+      "deployed_sha256": "8fa68ad714c1f19bd444ef638b46a418dc8fe6137f08acd60cd879e0588755b6",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_dataset.py",
+      "origin_sha256": "8fa68ad714c1f19bd444ef638b46a418dc8fe6137f08acd60cd879e0588755b6",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_identity.py",
+      "deployed_sha256": "6fca91c7e8813fd4baca83d27516eece9b4ff14777a0c6c1a1c34434c7109b63",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_identity.py",
+      "origin_sha256": "6fca91c7e8813fd4baca83d27516eece9b4ff14777a0c6c1a1c34434c7109b63",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_runner.py",
+      "deployed_sha256": "bc56598ecc394ca15e074b34321e056e542cde43b34a26f91dcd2162f207f5e1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_runner.py",
+      "origin_sha256": "bc56598ecc394ca15e074b34321e056e542cde43b34a26f91dcd2162f207f5e1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_store.py",
+      "deployed_sha256": "99f3ca8b374d2649a5faa3aae9cbb7d966e422535977c3fe54710a8bc07f1b08",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_store.py",
+      "origin_sha256": "99f3ca8b374d2649a5faa3aae9cbb7d966e422535977c3fe54710a8bc07f1b08",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_support.py",
+      "deployed_sha256": "8f439909813972d567f86f19309cd6f5eadfcc1508355185d43c638b0b32e490",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_support.py",
+      "origin_sha256": "8f439909813972d567f86f19309cd6f5eadfcc1508355185d43c638b0b32e490",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\test_tree.py",
+      "deployed_sha256": "3f785f7e1ea3012b8064f4e84b968a684ce3866e9cf5fec5621f5d2b5ee24995",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\test_tree.py",
+      "origin_sha256": "3f785f7e1ea3012b8064f4e84b968a684ce3866e9cf5fec5621f5d2b5ee24995",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-2-page-observation\\verify-native.ps1",
+      "deployed_sha256": "3f85a9b48a631f3c5d9d7b81e612b9dde2a4d0c1355b787fe0cc1fac8ffddd4a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-2-page-observation\\verify-native.ps1",
+      "origin_sha256": "3f85a9b48a631f3c5d9d7b81e612b9dde2a4d0c1355b787fe0cc1fac8ffddd4a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\API.md",
+      "deployed_sha256": "375079ba008457837fa7ccae49bb7551975e3eb3426e25d57d1b0453e46bfddf",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\API.md",
+      "origin_sha256": "375079ba008457837fa7ccae49bb7551975e3eb3426e25d57d1b0453e46bfddf",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\dependency-pins.json",
+      "deployed_sha256": "b77a6f3ab8243fbb9e61abd5c77bf03c74693c908329ac6b745139422ddac5a8",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\dependency-pins.json",
+      "origin_sha256": "b77a6f3ab8243fbb9e61abd5c77bf03c74693c908329ac6b745139422ddac5a8",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\DESIGN.md",
+      "deployed_sha256": "767da1463a313b26dee682cd4db1214058d20c4a3da8931c81dc11beb1e9426b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\DESIGN.md",
+      "origin_sha256": "767da1463a313b26dee682cd4db1214058d20c4a3da8931c81dc11beb1e9426b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\evidence\\emulator-current-legacy-readonly.json",
+      "deployed_sha256": "94b93cdb913c9ea949d0772ab6f3da2f20461edf8cd2a0bda1eb59ece78fe9e8",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\evidence\\emulator-current-legacy-readonly.json",
+      "origin_sha256": "94b93cdb913c9ea949d0772ab6f3da2f20461edf8cd2a0bda1eb59ece78fe9e8",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\evidence\\freeze-r1.json",
+      "deployed_sha256": "f23f6a21d85f2443cb32f07957af14a4ccdf9b7e5a37d3fb43c606ca92622a92",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\evidence\\freeze-r1.json",
+      "origin_sha256": "f23f6a21d85f2443cb32f07957af14a4ccdf9b7e5a37d3fb43c606ca92622a92",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\historical_trace.py",
+      "deployed_sha256": "49fa03bf7af1f607cea90e3476c31ed1cf26ab71d23f78512a217b9ff1ee1cbb",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\historical_trace.py",
+      "origin_sha256": "49fa03bf7af1f607cea90e3476c31ed1cf26ab71d23f78512a217b9ff1ee1cbb",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\interaction_trace.py",
+      "deployed_sha256": "5524d5c4a562c8e8417d5343a148740441e69efe14d5f73726f9e8bddd6851fd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\interaction_trace.py",
+      "origin_sha256": "5524d5c4a562c8e8417d5343a148740441e69efe14d5f73726f9e8bddd6851fd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\navigation_graph.py",
+      "deployed_sha256": "fd24bb89ab272d0f2ec47b80bb8fc276af323c9212a03b662d4bcf01453bb919",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\navigation_graph.py",
+      "origin_sha256": "fd24bb89ab272d0f2ec47b80bb8fc276af323c9212a03b662d4bcf01453bb919",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\p23deps.py",
+      "deployed_sha256": "f9b3ee41057ebad2c31237a52ccf1ee1b3bf3bae833058fdef6e2eec15640760",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\p23deps.py",
+      "origin_sha256": "8e2f98363193ff2a95c0b03a2a2fb87a1a42b55c0a61d9528fca0431f465b94c",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\README.md",
+      "deployed_sha256": "dea5b046e9c328cd28881b014f4c3b9d563ec97acf5f2bce7d0cdcb536329227",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\README.md",
+      "origin_sha256": "dea5b046e9c328cd28881b014f4c3b9d563ec97acf5f2bce7d0cdcb536329227",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\REVIEW.md",
+      "deployed_sha256": "1854deeb88d94e7725a243413607a50b8aacfaf6ff837fe90108ae69687d9f75",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\REVIEW.md",
+      "origin_sha256": "1854deeb88d94e7725a243413607a50b8aacfaf6ff837fe90108ae69687d9f75",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\run_acceptance.py",
+      "deployed_sha256": "d0b2bda90b7edf0f97e81e1ca144a94ed44a11910cb35391eaa43ddc3ffa036b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\run_acceptance.py",
+      "origin_sha256": "d0b2bda90b7edf0f97e81e1ca144a94ed44a11910cb35391eaa43ddc3ffa036b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\safe_navigation.py",
+      "deployed_sha256": "c4b3149e8689e163e0c2ec50ca7b7d61a587b85eac963b14a5a93d3bd8601045",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\safe_navigation.py",
+      "origin_sha256": "c4b3149e8689e163e0c2ec50ca7b7d61a587b85eac963b14a5a93d3bd8601045",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\samples\\fixture-demo-r1.sqlite",
+      "deployed_sha256": "580e036407cb11ba529f3ec40588078a9bf8f1e873367c55cc33b8ef2c85330b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\samples\\fixture-demo-r1.sqlite",
+      "origin_sha256": "580e036407cb11ba529f3ec40588078a9bf8f1e873367c55cc33b8ef2c85330b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\samples\\历史真实流程说明.md",
+      "deployed_sha256": "72e803216550a10a015b2f861139aab2a1e7cda61be28a052187129defd23abc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\samples\\历史真实流程说明.md",
+      "origin_sha256": "72e803216550a10a015b2f861139aab2a1e7cda61be28a052187129defd23abc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_boundary.py",
+      "deployed_sha256": "c384f65a4a2d780d86bd299c89aae843e8c124f3eebace7d3ece83cce9303c5a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_boundary.py",
+      "origin_sha256": "c384f65a4a2d780d86bd299c89aae843e8c124f3eebace7d3ece83cce9303c5a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_graph.py",
+      "deployed_sha256": "672b537c92aa9033507cca1ee50554634684468a404ee1e07d39fe45f932ec74",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_graph.py",
+      "origin_sha256": "672b537c92aa9033507cca1ee50554634684468a404ee1e07d39fe45f932ec74",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_hardening.py",
+      "deployed_sha256": "540abec189130e8111eacc3d92d1a95fbe8c0703448bb873a354a91eb5d8c50b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_hardening.py",
+      "origin_sha256": "540abec189130e8111eacc3d92d1a95fbe8c0703448bb873a354a91eb5d8c50b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_historical.py",
+      "deployed_sha256": "749f30727615e72a64757bf27f266846f45fd784204d21c4543d5b868870159e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_historical.py",
+      "origin_sha256": "749f30727615e72a64757bf27f266846f45fd784204d21c4543d5b868870159e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_review.py",
+      "deployed_sha256": "559a269f37b85c3da1f1de85429b86a2a7fb1bfa13aa5070105da70e6f5dbe12",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_review.py",
+      "origin_sha256": "559a269f37b85c3da1f1de85429b86a2a7fb1bfa13aa5070105da70e6f5dbe12",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_safety.py",
+      "deployed_sha256": "0aaf1eec709da75d7977a517cd627e0eed7cf1e3e83e13064d5489cf0e0002b1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_safety.py",
+      "origin_sha256": "0aaf1eec709da75d7977a517cd627e0eed7cf1e3e83e13064d5489cf0e0002b1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_session.py",
+      "deployed_sha256": "2bbcd33ae6a0bba3e5e0a1392966d058ea2f514363dfb14775963e0bd9b9a653",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_session.py",
+      "origin_sha256": "2bbcd33ae6a0bba3e5e0a1392966d058ea2f514363dfb14775963e0bd9b9a653",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_store.py",
+      "deployed_sha256": "c376c34ff10c4691811ff72f2f357c7f778cbde19b0c0c93e1dde8cdf3ce113f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_store.py",
+      "origin_sha256": "c376c34ff10c4691811ff72f2f357c7f778cbde19b0c0c93e1dde8cdf3ce113f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_support.py",
+      "deployed_sha256": "a08747d41819a4a3f3cffaf88afefe7858e249a36d15355112750f0b8f5e8a96",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_support.py",
+      "origin_sha256": "a08747d41819a4a3f3cffaf88afefe7858e249a36d15355112750f0b8f5e8a96",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\test_trace_contract.py",
+      "deployed_sha256": "86bf7c1927a65890780ece1ee9cc7f335df5872eac6a77e4c3cebee7be7e066a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\test_trace_contract.py",
+      "origin_sha256": "86bf7c1927a65890780ece1ee9cc7f335df5872eac6a77e4c3cebee7be7e066a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\trace_cli.py",
+      "deployed_sha256": "db9d647dee8ec305e7b199e42932abef50fae37226a6580d83bb0395aa8249cc",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\trace_cli.py",
+      "origin_sha256": "db9d647dee8ec305e7b199e42932abef50fae37226a6580d83bb0395aa8249cc",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\trace_contract.py",
+      "deployed_sha256": "1cf67a784c187decc977a7a821fc09939de63551407a0239705393b7754b1745",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\trace_contract.py",
+      "origin_sha256": "1cf67a784c187decc977a7a821fc09939de63551407a0239705393b7754b1745",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-3-interaction-trace\\trace_store.py",
+      "deployed_sha256": "1da31258d533648a2ea9b50b17608cb4871204ecae3ac2edfa2ab89e8f18b62e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-3-interaction-trace\\trace_store.py",
+      "origin_sha256": "1da31258d533648a2ea9b50b17608cb4871204ecae3ac2edfa2ab89e8f18b62e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\acceptance_tools.py",
+      "deployed_sha256": "3248834daa10e2fca683f532424a778c44b734e40661ab4b07cfbfc08d5ed6de",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\acceptance_tools.py",
+      "origin_sha256": "3248834daa10e2fca683f532424a778c44b734e40661ab4b07cfbfc08d5ed6de",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\android_bridge.py",
+      "deployed_sha256": "80a57ca6ad37f893169a501a0a74236c1bbdf4ce361e36608fad4f2f56f3e0f3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\android_bridge.py",
+      "origin_sha256": "80a57ca6ad37f893169a501a0a74236c1bbdf4ce361e36608fad4f2f56f3e0f3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\bundle_contract.py",
+      "deployed_sha256": "85db265b0970e94168b8ae66b91e2a02a96016256bedbf810bd63ee2101bf5ee",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\bundle_contract.py",
+      "origin_sha256": "85db265b0970e94168b8ae66b91e2a02a96016256bedbf810bd63ee2101bf5ee",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\bundle_store.py",
+      "deployed_sha256": "1e743a922fa7029848b9597e1d82a12ce92b711bc80a9955ab74c26f27760076",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\bundle_store.py",
+      "origin_sha256": "1e743a922fa7029848b9597e1d82a12ce92b711bc80a9955ab74c26f27760076",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\dependency-pins.json",
+      "deployed_sha256": "698faa30f4b673185f5735a9b36ba286bcbd9fa333c4f259948ba3a757752d7c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\dependency-pins.json",
+      "origin_sha256": "698faa30f4b673185f5735a9b36ba286bcbd9fa333c4f259948ba3a757752d7c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\device_inventory.py",
+      "deployed_sha256": "b1e45860c166b97a5f9539105d03c72874e46bc49f860a6782c4780da6aa869a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\device_inventory.py",
+      "origin_sha256": "b1e45860c166b97a5f9539105d03c72874e46bc49f860a6782c4780da6aa869a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\evaluation_device.py",
+      "deployed_sha256": "4e837ea58e577dd9e8b4dff3ec035d5a9547bf4581684804419bc594eb4814f9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\evaluation_device.py",
+      "origin_sha256": "4e837ea58e577dd9e8b4dff3ec035d5a9547bf4581684804419bc594eb4814f9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\formal-plan.json",
+      "deployed_sha256": "4bd9d72803c2830cbd2e568d1ad78fb6ace41c73dce569e8a68615898b480887",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\formal-plan.json",
+      "origin_sha256": "4bd9d72803c2830cbd2e568d1ad78fb6ace41c73dce569e8a68615898b480887",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\learning_cli.py",
+      "deployed_sha256": "740d134e17f28f222529d0fe54379fa9a8531921e2a2d17df12138ab2a2e0f9e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\learning_cli.py",
+      "origin_sha256": "740d134e17f28f222529d0fe54379fa9a8531921e2a2d17df12138ab2a2e0f9e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\learning_queries.py",
+      "deployed_sha256": "ed6d03a050d62f41b759b0ac1d9a3d51a02499143ea0d47a1b6a9a6bd933dc32",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\learning_queries.py",
+      "origin_sha256": "ed6d03a050d62f41b759b0ac1d9a3d51a02499143ea0d47a1b6a9a6bd933dc32",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\material_graph.py",
+      "deployed_sha256": "2da3b1395e065a0daa654477c95f90c2e67920684aa7f49ba6377d846adbbaf9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\material_graph.py",
+      "origin_sha256": "2da3b1395e065a0daa654477c95f90c2e67920684aa7f49ba6377d846adbbaf9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\native_materials.py",
+      "deployed_sha256": "824042553e359d4114d7f89a3758423db3865b662ae7209b5a1f36f5c8848e42",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\native_materials.py",
+      "origin_sha256": "824042553e359d4114d7f89a3758423db3865b662ae7209b5a1f36f5c8848e42",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\navigation_controller.py",
+      "deployed_sha256": "ad7dd12fa936623ed0feb21d56fd50fdf187814429c6346d80be2dbb3bdc456b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\navigation_controller.py",
+      "origin_sha256": "ad7dd12fa936623ed0feb21d56fd50fdf187814429c6346d80be2dbb3bdc456b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\p24deps.py",
+      "deployed_sha256": "54229c7ee15f903f35d9b7c6ffcd279e4f565a2dc5373182b3404f0bc124fa5e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\p24deps.py",
+      "origin_sha256": "3a2a609891ff92c3aebe4994b6e84af3ef579685b3b8902c4167295393559f63",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\run_closeout.py",
+      "deployed_sha256": "d2a65f2be72ffacb39be429c0198368e764b5b7dbb6aefd992e721c73f0babfd",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\run_closeout.py",
+      "origin_sha256": "d2a65f2be72ffacb39be429c0198368e764b5b7dbb6aefd992e721c73f0babfd",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\run_native_checks.py",
+      "deployed_sha256": "4446fccd362a78f8bb2122356382198ff95c731015299dcbba36c3ce66c5653c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\run_native_checks.py",
+      "origin_sha256": "4446fccd362a78f8bb2122356382198ff95c731015299dcbba36c3ce66c5653c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\run_real_flow.py",
+      "deployed_sha256": "bd9d46c9024a781964462642562b27d1b94cdea87c3fa0dbebb95cd6a1eb2b2b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\run_real_flow.py",
+      "origin_sha256": "bd9d46c9024a781964462642562b27d1b94cdea87c3fa0dbebb95cd6a1eb2b2b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_acceptance.py",
+      "deployed_sha256": "ee3114357b96ffeb267895ed6aa17ea486167f37fcd8fe2929498c22d41bf023",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_acceptance.py",
+      "origin_sha256": "ee3114357b96ffeb267895ed6aa17ea486167f37fcd8fe2929498c22d41bf023",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_contract.py",
+      "deployed_sha256": "eef03acdd659f39389072ffa2005d5de38085d3c6ce1033b3d349f4fb939b221",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_contract.py",
+      "origin_sha256": "eef03acdd659f39389072ffa2005d5de38085d3c6ce1033b3d349f4fb939b221",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_material_graph.py",
+      "deployed_sha256": "8f89f6740b98476752de15c65fc80c2eaa7d5739fa1611e00c9e147a9850afe1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_material_graph.py",
+      "origin_sha256": "8f89f6740b98476752de15c65fc80c2eaa7d5739fa1611e00c9e147a9850afe1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_native.py",
+      "deployed_sha256": "680c55d3fb624ff530a85253802f106270cc0339605fe059560a1be0bcfcdc47",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_native.py",
+      "origin_sha256": "680c55d3fb624ff530a85253802f106270cc0339605fe059560a1be0bcfcdc47",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_provenance.py",
+      "deployed_sha256": "bad8a6905a97e1573dc05ee5ce1729cf5a9443ce7fe0feae78bf85fcfe9c1ae9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_provenance.py",
+      "origin_sha256": "bad8a6905a97e1573dc05ee5ce1729cf5a9443ce7fe0feae78bf85fcfe9c1ae9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_queries.py",
+      "deployed_sha256": "196d4489418f31946e2327ef767b10e060917407421fdfae9e9739421dd01956",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_queries.py",
+      "origin_sha256": "196d4489418f31946e2327ef767b10e060917407421fdfae9e9739421dd01956",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_store.py",
+      "deployed_sha256": "de3515aff5fb53d0a97b54656cc56ecaba42710913029cf79081f28b25a43692",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_store.py",
+      "origin_sha256": "de3515aff5fb53d0a97b54656cc56ecaba42710913029cf79081f28b25a43692",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p2-4-learning-bundle\\test_support.py",
+      "deployed_sha256": "7d003f1da4e3b3a2e599781e7ff5d2392b43b1afcf935b1a4e369c3717795ec5",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p2-4-learning-bundle\\test_support.py",
+      "origin_sha256": "7d003f1da4e3b3a2e599781e7ff5d2392b43b1afcf935b1a4e369c3717795ec5",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\dependency-pins.json",
+      "deployed_sha256": "5950042e8268e6a42ad845845226be2e8c7cba3d29190a96dce196f9cbc9c643",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\dependency-pins.json",
+      "origin_sha256": "5950042e8268e6a42ad845845226be2e8c7cba3d29190a96dce196f9cbc9c643",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\draft_generator.py",
+      "deployed_sha256": "69d4367a5aa0f65526034e02c5e5250dce56419956bc7641d8e504ed33ec6e73",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\draft_generator.py",
+      "origin_sha256": "69d4367a5aa0f65526034e02c5e5250dce56419956bc7641d8e504ed33ec6e73",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\freeze.json",
+      "deployed_sha256": "7194bd47a55ab925067bccc9867b8f2de4cc472b19ba788c405005863086d174",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\freeze.json",
+      "origin_sha256": "7194bd47a55ab925067bccc9867b8f2de4cc472b19ba788c405005863086d174",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\15bb4e8d-a198-4f45-b0d4-2bebae4d2c5e\\input.json",
+      "deployed_sha256": "38e758050d55b35ebe80118d7dea6f5a707731509f730b782f1f33d229aa8e3d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\15bb4e8d-a198-4f45-b0d4-2bebae4d2c5e\\input.json",
+      "origin_sha256": "38e758050d55b35ebe80118d7dea6f5a707731509f730b782f1f33d229aa8e3d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\15bb4e8d-a198-4f45-b0d4-2bebae4d2c5e\\result.json",
+      "deployed_sha256": "3d7586ac72aa1be2166e3785aed313e39bdccbffe816369268cc9d12e518b5cb",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\15bb4e8d-a198-4f45-b0d4-2bebae4d2c5e\\result.json",
+      "origin_sha256": "3d7586ac72aa1be2166e3785aed313e39bdccbffe816369268cc9d12e518b5cb",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\6e7e34f1-3741-4e52-94c8-88c22a8ae986\\input.json",
+      "deployed_sha256": "a39055e75ce4483a59180de04bbc7404d8f6637e8d3e3a63cb1f1223292d9b3e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\6e7e34f1-3741-4e52-94c8-88c22a8ae986\\input.json",
+      "origin_sha256": "a39055e75ce4483a59180de04bbc7404d8f6637e8d3e3a63cb1f1223292d9b3e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\6e7e34f1-3741-4e52-94c8-88c22a8ae986\\result.json",
+      "deployed_sha256": "c7dff667bde04a73758b2306574efd7ddf34a63b2ac0431c76e43241da846e2d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\6e7e34f1-3741-4e52-94c8-88c22a8ae986\\result.json",
+      "origin_sha256": "c7dff667bde04a73758b2306574efd7ddf34a63b2ac0431c76e43241da846e2d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\b076635f-f079-43ac-9334-d168ba1d1c36\\input.json",
+      "deployed_sha256": "118fef85c953fdc2e4b3ca95825441189019525bd8317abdea1de8b69f9793b3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\b076635f-f079-43ac-9334-d168ba1d1c36\\input.json",
+      "origin_sha256": "118fef85c953fdc2e4b3ca95825441189019525bd8317abdea1de8b69f9793b3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\b076635f-f079-43ac-9334-d168ba1d1c36\\result.json",
+      "deployed_sha256": "e7a7d3ab5ead58a8c8c279ca4b4e212254c2804015e6613548c5657965d4b531",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\b076635f-f079-43ac-9334-d168ba1d1c36\\result.json",
+      "origin_sha256": "e7a7d3ab5ead58a8c8c279ca4b4e212254c2804015e6613548c5657965d4b531",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\e949bceb-1212-49c8-ac88-9344a7c74126\\input.json",
+      "deployed_sha256": "8fed4cd45d1039717d297cab981c784c50360eb84176ccafeda6e1754dc2dda0",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\e949bceb-1212-49c8-ac88-9344a7c74126\\input.json",
+      "origin_sha256": "8fed4cd45d1039717d297cab981c784c50360eb84176ccafeda6e1754dc2dda0",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\e949bceb-1212-49c8-ac88-9344a7c74126\\result.json",
+      "deployed_sha256": "a3d7e3b7826731734a1ce4be0417d8d81ff035f99b1ee14915b5d69d8d3381af",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-audits\\e949bceb-1212-49c8-ac88-9344a7c74126\\result.json",
+      "origin_sha256": "a3d7e3b7826731734a1ce4be0417d8d81ff035f99b1ee14915b5d69d8d3381af",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-results.json",
+      "deployed_sha256": "5dae8d8ab1dfd646148748b7d08a4a2a6698d2419e28aa429a3593413f258cac",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\evidence\\frozen-confirmation-r1\\material-results.json",
+      "origin_sha256": "5dae8d8ab1dfd646148748b7d08a4a2a6698d2419e28aa429a3593413f258cac",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\learning_cli.py",
+      "deployed_sha256": "adbdc0bead286200b05d40a64ce02748354c932c62cb82a10270eb45ea7f0ff1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\learning_cli.py",
+      "origin_sha256": "adbdc0bead286200b05d40a64ce02748354c932c62cb82a10270eb45ea7f0ff1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\learning_request.py",
+      "deployed_sha256": "8d4b39ae37c37b927dd1ab76547d2ffefdc40c8da6b2a742ed8cc06b34cd60c1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\learning_request.py",
+      "origin_sha256": "8d4b39ae37c37b927dd1ab76547d2ffefdc40c8da6b2a742ed8cc06b34cd60c1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\model_api.py",
+      "deployed_sha256": "fb3e4088db8517f272f23fc78feaae5ef1bbe29f5a8a4c71f0e29310da6b8a05",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\model_api.py",
+      "origin_sha256": "fb3e4088db8517f272f23fc78feaae5ef1bbe29f5a8a4c71f0e29310da6b8a05",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\p31deps.py",
+      "deployed_sha256": "ca1c1bb5b8b4e01bd8254308cd1a39a69dae5223ab3effe35990c7d9fa2b65a8",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\p31deps.py",
+      "origin_sha256": "bbb5776ebfbb3b75c56e46009e9adc9bf0e06ad36e28c49c7056ba888eb6993a",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\pin_dependencies.py",
+      "deployed_sha256": "b7d011132e83f2e280dd4f0dbe55e53c8f2d3d1b55049b6323d7df29796f22d4",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\pin_dependencies.py",
+      "origin_sha256": "b7d011132e83f2e280dd4f0dbe55e53c8f2d3d1b55049b6323d7df29796f22d4",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\run_confirmation.py",
+      "deployed_sha256": "20c78b88df4c079453c24f706e30c78ba48aa274317f5953e379a93c8d510721",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\run_confirmation.py",
+      "origin_sha256": "20c78b88df4c079453c24f706e30c78ba48aa274317f5953e379a93c8d510721",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\tasks\\plan.md",
+      "deployed_sha256": "8460caa2caf19fd46f1162c458d353cd85523811974ecc8f343b2df2e1e43783",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\tasks\\plan.md",
+      "origin_sha256": "8460caa2caf19fd46f1162c458d353cd85523811974ecc8f343b2df2e1e43783",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\test_draft_generator.py",
+      "deployed_sha256": "4393ce98c809928bcaf329ee4b4bf3bb1b8cbb5bd68c63d85392c4a5f4592f68",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\test_draft_generator.py",
+      "origin_sha256": "4393ce98c809928bcaf329ee4b4bf3bb1b8cbb5bd68c63d85392c4a5f4592f68",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\test_learning_cli.py",
+      "deployed_sha256": "4611d11953ef0ea460d35e748ebece761d686230f1b22618152abd6871e4351c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\test_learning_cli.py",
+      "origin_sha256": "4611d11953ef0ea460d35e748ebece761d686230f1b22618152abd6871e4351c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\test_learning_request.py",
+      "deployed_sha256": "42b788a329189cfe27b5cca7c0ee8fccb087e5eb0e87df3dd10e52b727a83438",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\test_learning_request.py",
+      "origin_sha256": "42b788a329189cfe27b5cca7c0ee8fccb087e5eb0e87df3dd10e52b727a83438",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-1-draft-generator\\test_model_api.py",
+      "deployed_sha256": "8c1e81c07a475c9b9e9e6a0b01be19986f85748cb71469143e1493f72e761548",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-1-draft-generator\\test_model_api.py",
+      "origin_sha256": "8c1e81c07a475c9b9e9e6a0b01be19986f85748cb71469143e1493f72e761548",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\abstraction.py",
+      "deployed_sha256": "0837e83c9564626300dad00354cd6c0cdd5fc656cd7f9479afc78790aa8a4f7e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\abstraction.py",
+      "origin_sha256": "0837e83c9564626300dad00354cd6c0cdd5fc656cd7f9479afc78790aa8a4f7e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\audit_io.py",
+      "deployed_sha256": "02e6cb02cc0d217f0360560204980a71281d9f71de93ff9acdfaa2d157498cdb",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\audit_io.py",
+      "origin_sha256": "02e6cb02cc0d217f0360560204980a71281d9f71de93ff9acdfaa2d157498cdb",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\cli.py",
+      "deployed_sha256": "8c7c4920ec08a140b36170dd864a941f8cc7a5510d70dec6287509f2b6dc7633",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\cli.py",
+      "origin_sha256": "8c7c4920ec08a140b36170dd864a941f8cc7a5510d70dec6287509f2b6dc7633",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\confirmation.py",
+      "deployed_sha256": "b0a6091a05e67aa353c1fed8d213d42ff1b40f5b4abf731daa0ad8074d5c25a1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\confirmation.py",
+      "origin_sha256": "b0a6091a05e67aa353c1fed8d213d42ff1b40f5b4abf731daa0ad8074d5c25a1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\evidence\\frozen-confirmation-r1\\freeze.json",
+      "deployed_sha256": "65b880d454d36b21e0cf1b4460c2adcdb67ee42c6ee81f8815958b1385c39621",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\evidence\\frozen-confirmation-r1\\freeze.json",
+      "origin_sha256": "65b880d454d36b21e0cf1b4460c2adcdb67ee42c6ee81f8815958b1385c39621",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\p32deps.py",
+      "deployed_sha256": "9541bcd8a62f3ab576908971d2f588a7384684205bd0a9369626b23310d5f68b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\p32deps.py",
+      "origin_sha256": "bc240bee408aade77f8aa4ebbfdc3dcaa8aa0cfe4d731d14d6d26190ecc53515",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\README.md",
+      "deployed_sha256": "c53e63a2407b210db54876c22dce7873e2c37c681029f29396a0a9549550ec67",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\README.md",
+      "origin_sha256": "c53e63a2407b210db54876c22dce7873e2c37c681029f29396a0a9549550ec67",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\revision.py",
+      "deployed_sha256": "dab7c307e738eb039c381d6a9175ba8c3283b1032f280a4bac7430b200a556d6",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\revision.py",
+      "origin_sha256": "dab7c307e738eb039c381d6a9175ba8c3283b1032f280a4bac7430b200a556d6",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\tasks\\plan.md",
+      "deployed_sha256": "c7d69afbf651454c478ef3210ab47ddc4877e017f978c5b48147646337556f1b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\tasks\\plan.md",
+      "origin_sha256": "c7d69afbf651454c478ef3210ab47ddc4877e017f978c5b48147646337556f1b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_abstraction.py",
+      "deployed_sha256": "615124cdd0729a665fc28f025756d10160717683f5324320c48170e846053a28",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_abstraction.py",
+      "origin_sha256": "615124cdd0729a665fc28f025756d10160717683f5324320c48170e846053a28",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_analysis_boundaries.py",
+      "deployed_sha256": "2a2e48189623e60dcd25d74ad9805f299b734d083ba183a0ec22924e249fe0e3",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_analysis_boundaries.py",
+      "origin_sha256": "2a2e48189623e60dcd25d74ad9805f299b734d083ba183a0ec22924e249fe0e3",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_audit.py",
+      "deployed_sha256": "75f0d89f89ca95fde70c5bc48cb530ed477c3dee21c2dc83a1a17cb7952135fa",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_audit.py",
+      "origin_sha256": "75f0d89f89ca95fde70c5bc48cb530ed477c3dee21c2dc83a1a17cb7952135fa",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_review_gaps.py",
+      "deployed_sha256": "7d09ce233b4938d2539fa51cceca5388f58e3c899098c150e68ca99da1294ae5",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_review_gaps.py",
+      "origin_sha256": "7d09ce233b4938d2539fa51cceca5388f58e3c899098c150e68ca99da1294ae5",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_revision.py",
+      "deployed_sha256": "bd3e1e02bc0d2327f33d21070c655ce099b2b114e52f5eb970e3df1e5ae13682",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_revision.py",
+      "origin_sha256": "bd3e1e02bc0d2327f33d21070c655ce099b2b114e52f5eb970e3df1e5ae13682",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-2-flow-abstraction\\test_semantic_mapping.py",
+      "deployed_sha256": "e1f929cda1fd77afb07906198797fd216ada9f9a6061b8335d9fae93a22fe087",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-2-flow-abstraction\\test_semantic_mapping.py",
+      "origin_sha256": "e1f929cda1fd77afb07906198797fd216ada9f9a6061b8335d9fae93a22fe087",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\cli.py",
+      "deployed_sha256": "24b09f19ba46a0966b11ed47110af6fc5b8a85579266a9aaa64fb85f8490b2b1",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\cli.py",
+      "origin_sha256": "24b09f19ba46a0966b11ed47110af6fc5b8a85579266a9aaa64fb85f8490b2b1",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\confirmation.py",
+      "deployed_sha256": "6c558c0930829f7de70781f4dea0400de6f9f8825b5c222ffcdd2fc50179b5bb",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\confirmation.py",
+      "origin_sha256": "6c558c0930829f7de70781f4dea0400de6f9f8825b5c222ffcdd2fc50179b5bb",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\evaluator.py",
+      "deployed_sha256": "7ff5ce54e33815d5ccb2aacc457aad63e7f5c1f03c907a35ebb96999f1c971b4",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\evaluator.py",
+      "origin_sha256": "7ff5ce54e33815d5ccb2aacc457aad63e7f5c1f03c907a35ebb96999f1c971b4",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\evidence\\frozen-confirmation-r2\\freeze.json",
+      "deployed_sha256": "63b1bbc6e4050c4236af41f837430763fe13b37b0225ef5e090d41ef18c74302",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\evidence\\frozen-confirmation-r2\\freeze.json",
+      "origin_sha256": "63b1bbc6e4050c4236af41f837430763fe13b37b0225ef5e090d41ef18c74302",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\layered_validation.py",
+      "deployed_sha256": "711a53414649e26e8d668e076ba791c2bc12961be70950d72de5f451806c223b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\layered_validation.py",
+      "origin_sha256": "711a53414649e26e8d668e076ba791c2bc12961be70950d72de5f451806c223b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\logic_examples.py",
+      "deployed_sha256": "235322e9bb50979e40ad0e7bc13476bad9ad71e9d77e8ffe488e6498698bee5f",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\logic_examples.py",
+      "origin_sha256": "235322e9bb50979e40ad0e7bc13476bad9ad71e9d77e8ffe488e6498698bee5f",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\material_io.py",
+      "deployed_sha256": "2400c652ce38be95344b6fc806695d60e9818946a43974ffdaaf1169beab9aac",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\material_io.py",
+      "origin_sha256": "2400c652ce38be95344b6fc806695d60e9818946a43974ffdaaf1169beab9aac",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\p33deps.py",
+      "deployed_sha256": "d25d679ffa0b0cd91e9f142993b2d055cdf4a1bde508e889a50b858804c19776",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\p33deps.py",
+      "origin_sha256": "1f11202bf6c65f4607cf3ae39fc31c987f5e3a13ab2fc188b484c778a90bff1c",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\README.md",
+      "deployed_sha256": "013853a500282ce4275baa9f883993c89d97debdc06fa59f1bb3913eec357b2c",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\README.md",
+      "origin_sha256": "013853a500282ce4275baa9f883993c89d97debdc06fa59f1bb3913eec357b2c",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\tasks\\plan.md",
+      "deployed_sha256": "4627f6e32c2b033fbf5c6ad6f4eb224d8b05dac71001c0d102373875854fc099",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\tasks\\plan.md",
+      "origin_sha256": "4627f6e32c2b033fbf5c6ad6f4eb224d8b05dac71001c0d102373875854fc099",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\test_layers.py",
+      "deployed_sha256": "a0e7e4337d800440f875c7c5eb5ade77a44c50f6767b5a867723609a6f18517d",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\test_layers.py",
+      "origin_sha256": "a0e7e4337d800440f875c7c5eb5ade77a44c50f6767b5a867723609a6f18517d",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\test_material.py",
+      "deployed_sha256": "7739b2ac8bdaad9670d3734d96b35675917f34aecf7193da12f8286de8c8d416",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\test_material.py",
+      "origin_sha256": "7739b2ac8bdaad9670d3734d96b35675917f34aecf7193da12f8286de8c8d416",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\test_validation.py",
+      "deployed_sha256": "061cbc8bc13b8c75f4f24872447005893a457b7fad2d174d3979d5e2f8712bb9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\test_validation.py",
+      "origin_sha256": "061cbc8bc13b8c75f4f24872447005893a457b7fad2d174d3979d5e2f8712bb9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\validation_plan.py",
+      "deployed_sha256": "f0769033ebba2d5076497b3621de85e58960a9fde29c5dd19e99306d0f1f1324",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\validation_plan.py",
+      "origin_sha256": "f0769033ebba2d5076497b3621de85e58960a9fde29c5dd19e99306d0f1f1324",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-3-layered-validation\\validation_run.py",
+      "deployed_sha256": "4309ac0dbbd8e9500eef914ada3e529fef3bb96d12a75fe2146af950c24853c9",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-3-layered-validation\\validation_run.py",
+      "origin_sha256": "4309ac0dbbd8e9500eef914ada3e529fef3bb96d12a75fe2146af950c24853c9",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\cli.py",
+      "deployed_sha256": "5624ce1ec802beba22ed7688f19b397812e6ccc0ae175967eaf0af2f1ac16e8b",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\cli.py",
+      "origin_sha256": "5624ce1ec802beba22ed7688f19b397812e6ccc0ae175967eaf0af2f1ac16e8b",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\confirmation.py",
+      "deployed_sha256": "b7a1669c5859e23b7220594aa5b1e74d7e5cd208b88da29b68805c000cbcf61a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\confirmation.py",
+      "origin_sha256": "b7a1669c5859e23b7220594aa5b1e74d7e5cd208b88da29b68805c000cbcf61a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\knowledge.py",
+      "deployed_sha256": "ed19a1f9f9942e16b1edd04a5a7943c22e152ea238076c2d37161583a7cce844",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\knowledge.py",
+      "origin_sha256": "ed19a1f9f9942e16b1edd04a5a7943c22e152ea238076c2d37161583a7cce844",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\material_package.py",
+      "deployed_sha256": "7bd60748f334a1ab0f6d772380c9b778ca04310afa52fa5a6c8e1de24fab8638",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\material_package.py",
+      "origin_sha256": "7bd60748f334a1ab0f6d772380c9b778ca04310afa52fa5a6c8e1de24fab8638",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\p34deps.py",
+      "deployed_sha256": "eedc9c3c6ea47ac95c3b07a3a2db2ae20b2b6f30687a42d72c023e44dd34cb21",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\p34deps.py",
+      "origin_sha256": "18b549d4db0e4c20d214bddf3a3d344a7ab8ba8a22797691e012ab26597e5895",
+      "transformation_rules": [
+        "FIXED_DEPLOYMENT_PATHS",
+        "ORIGIN_AND_DEPLOYED_DUAL_PIN_GUARD"
+      ]
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\test_faults.py",
+      "deployed_sha256": "372d776ab0378932cbb7d63ec0af94ead0c9601fec965401a786faec5f709e0a",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\test_faults.py",
+      "origin_sha256": "372d776ab0378932cbb7d63ec0af94ead0c9601fec965401a786faec5f709e0a",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\test_material_archive.py",
+      "deployed_sha256": "1b37fd2cb375bf747bbeaa01d215921c49dfba75d11e433245360375ea7f0f5e",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\test_material_archive.py",
+      "origin_sha256": "1b37fd2cb375bf747bbeaa01d215921c49dfba75d11e433245360375ea7f0f5e",
+      "transformation_rules": []
+    },
+    {
+      "deployed_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\c1-c2-common-r1\\runtime-dependencies\\p3-4-knowledge-publication\\test_publication.py",
+      "deployed_sha256": "e6cb87196476e2cf57fdd9d016f28bad5d4dca342aa48441c086a559fdc8ec65",
+      "origin_path": "D:\\Codex-deliveries\\smarthome-ui-polish\\p3-4-knowledge-publication\\test_publication.py",
+      "origin_sha256": "e6cb87196476e2cf57fdd9d016f28bad5d4dca342aa48441c086a559fdc8ec65",
+      "transformation_rules": []
+    }
+  ],
+  "kind": "PinnedArtifactDeployment",
+  "legacy_frozen_manifests_retained": true,
+  "permissions_copied": false,
+  "schema_version": "1.0"
+}

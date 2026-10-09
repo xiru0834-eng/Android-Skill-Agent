@@ -1,0 +1,67 @@
+<resources>
+    <item name="teachOverlayNext" type="id"/><item name="teachRecordedActions" type="id"/><item name="homeAdvanced" type="id"/>
+    <item name="teachStateTitle" type="id"/><item name="teachStateHint" type="id"/>
+    <item name="teachProgress" type="id"/><item name="teachResume" type="id"/>
+    <item name="teachNew" type="id"/><item name="teachInstructions" type="id"/>
+    <item name="teachDetails" type="id"/><item name="teachLibraryToggle" type="id"/>
+    <item name="teachOverlayTitle" type="id"/><item name="teachOverlayTimer" type="id"/>
+    <item name="teachOverlayLast" type="id"/><item name="teachOverlayFinish" type="id"/>
+    <item name="teachOverlayCancel" type="id"/><item name="teachOverlayDock" type="id"/>
+    <item name="languageToggle" type="id"/>
+    <item name="languageEntry" type="id"/><item name="languageInput" type="id"/>
+    <item name="languageExecute" type="id"/><item name="languageStop" type="id"/>
+    <item name="languageStatus" type="id"/><item name="languageSummary" type="id"/>
+    <item name="languageExampleZh" type="id"/><item name="languageExampleEn" type="id"/>
+    <item name="languageSetup" type="id"/><item name="languagePairing" type="id"/><item name="languageBack" type="id"/>
+    <item name="traceEvidence" type="id"/><item name="traceGoal" type="id"/><item name="traceUnknown" type="id"/>
+    <item name="traceHuman" type="id"/><item name="traceAdb" type="id"/><item name="traceRecord" type="id"/>
+    <item name="traceStop" type="id"/><item name="traceStatus" type="id"/><item name="traceRefresh" type="id"/>
+    <item name="traceRestore" type="id"/><item name="traceExport" type="id"/><item name="traceDelete" type="id"/>
+    <item name="tracePreview" type="id"/>
+    <item name="deployments" type="id"/><item name="deployState" type="id"/><item name="deployResult" type="id"/>
+    <item name="deployStop" type="id"/><item name="deployRefresh" type="id"/><item name="deployRun" type="id"/>
+    <item name="deployGoal0" type="id"/><item name="deployGoal1" type="id"/><item name="deployCheck" type="id"/>
+    <item name="deployReview" type="id"/><item name="deployConfirm" type="id"/><item name="deployExport" type="id"/>
+    <item name="deployImport" type="id"/><item name="deployCreate" type="id"/><item name="deployRebind" type="id"/>
+    <item name="deployHistory" type="id"/><item name="deployName0" type="id"/><item name="deployName1" type="id"/>
+    <item name="bindStatus" type="id"/><item name="bindRoom" type="id"/><item name="bindBench" type="id"/>
+    <item name="bindScan" type="id"/><item name="bindPick0" type="id"/><item name="bindPick1" type="id"/>
+    <item name="bindSave" type="id"/><item name="bindRefresh" type="id"/>
+    <item name="twoStep" type="id"/><item name="twoState" type="id"/><item name="twoResult" type="id"/>
+    <item name="twoRecord" type="id"/><item name="twoStop" type="id"/><item name="twoReview" type="id"/>
+    <item name="twoCheck" type="id"/><item name="twoTarget0" type="id"/><item name="twoTarget1" type="id"/>
+    <item name="twoRun" type="id"/><item name="twoExport" type="id"/><item name="twoImport" type="id"/><item name="twoRefresh" type="id"/>
+    <item name="checkBinding" type="id"/><item name="exportSkill" type="id"/><item name="importSkill" type="id"/>
+    <item name="selectLab" type="id"/><item name="selectBench" type="id"/>
+    <item name="record" type="id"/><item name="stop" type="id"/>
+    <item name="review" type="id"/><item name="runOn" type="id"/><item name="runOff" type="id"/>
+    <item name="refresh" type="id"/><item name="status" type="id"/><item name="saved" type="id"/>
+    <item name="draft" type="id"/><item name="result" type="id"/>
+    <item name="flowEntry" type="id"/><item name="flowGoal" type="id"/><item name="flowRecord" type="id"/>
+    <item name="flowRecordTest" type="id"/><item name="flowStop" type="id"/><item name="flowRefresh" type="id"/><item name="flowState" type="id"/>
+    <item name="flowImport" type="id"/><item name="flowReview" type="id"/><item name="flowExport" type="id"/><item name="flowRun" type="id"/>
+    <item name="teachEntry" type="id"/><item name="teachLibrary" type="id"/><item name="teachLanguage" type="id"/>
+    <item name="teachName" type="id"/><item name="teachGoal" type="id"/><item name="teachRecord" type="id"/>
+    <item name="teachStop" type="id"/><item name="teachCancel" type="id"/><item name="teachStatus" type="id"/>
+    <item name="teachGenerate" type="id"/><item name="teachGuide" type="id"/><item name="teachSave" type="id"/>
+    <item name="teachSaved" type="id"/><item name="teachView" type="id"/><item name="teachRun" type="id"/>
+    <item name="teachRunStop" type="id"/><item name="teachSetup" type="id"/><item name="teachConnection" type="id"/>
+    <item name="teachPairing" type="id"/><item name="teachBack" type="id"/>
+    <item name="teachResources" type="id"/><item name="teachRecordingMinutes" type="id"/><item name="teachConfirmationSeconds" type="id"/>
+    <item name="publishedFlowReview" type="id"/><item name="publishedFlowUnderstand" type="id"/>
+    <item name="learningEntry" type="id"/><item name="learningLegacy" type="id"/>
+    <item name="learningLanguage" type="id"/><item name="learningBack" type="id"/>
+    <item name="learningConnection" type="id"/><item name="learningGoal" type="id"/><item name="learningScope" type="id"/>
+    <item name="learningStart" type="id"/><item name="learningStop" type="id"/><item name="learningDocument" type="id"/>
+    <item name="learningUseRecording" type="id"/>
+    <item name="learningGenerate" type="id"/><item name="learningName" type="id"/><item name="learningSave" type="id"/>
+    <item name="learningReload" type="id"/><item name="learningValidate" type="id"/><item name="learningCancel" type="id"/><item name="learningStatus" type="id"/>
+    <item name="publishedFlowImport" type="id"/><item name="publishedFlowExport" type="id"/>
+    <item name="candidateReload" type="id"/><item name="candidateBack" type="id"/>
+    <item name="candidateValidate" type="id"/><item name="candidateResult" type="id"/>
+    <item name="candidateName" type="id"/><item name="candidateSaveName" type="id"/>
+    <item name="candidatePublish" type="id"/><item name="candidateCancel" type="id"/><item name="candidateStatus" type="id"/>
+    <item name="candidateLoadPublished" type="id"/>
+    <item name="candidateValue0" type="id"/><item name="candidateValue1" type="id"/><item name="candidateValue2" type="id"/><item name="candidateValue3" type="id"/>
+    <item name="candidateValue4" type="id"/><item name="candidateValue5" type="id"/><item name="candidateValue6" type="id"/><item name="candidateValue7" type="id"/>
+</resources>

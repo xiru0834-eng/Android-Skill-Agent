@@ -1,0 +1,86 @@
+{
+  "status": "READ_ONLY_DEFINITION_SNAPSHOT_NOT_EXECUTION_SUPPORT",
+  "source": "D:/Codex-deliveries/smarthome-ui-polish/native-planning-candidate-v91/app/src/main/java/edu/sydney/probe/SemanticSkills.java",
+  "source_sha256": "92473fa01cbca2806c686ec3ce00c50767b1c043b8c215fd9772c70b1768de96",
+  "registry_sha256": "8359588ed52a442d811d2b4762aeadebe73c22e5f493240760370ae595520f3b",
+  "call_protocol": "semantic_parameter_calls_v2",
+  "max_calls": 32,
+  "definitions": [
+    {
+      "name": "SetPower",
+      "argument": "state",
+      "property": "power",
+      "type": "enum",
+      "choices": [
+        "off",
+        "on"
+      ],
+      "minimum": 0,
+      "maximum": 0,
+      "unit": "enum"
+    },
+    {
+      "name": "SetBrightness",
+      "argument": "percent",
+      "property": "brightnessPercent",
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "unit": "percent"
+    },
+    {
+      "name": "SetTemperature",
+      "argument": "celsius",
+      "property": "temperatureCelsius",
+      "type": "integer",
+      "minimum": -273,
+      "maximum": 2147483647,
+      "unit": "celsius"
+    },
+    {
+      "name": "SetFanSpeed",
+      "argument": "level",
+      "property": "fanSpeedLevel",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 2147483647,
+      "unit": "level"
+    },
+    {
+      "name": "SetCurtain",
+      "argument": "position",
+      "property": "curtainPositionPercent",
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "unit": "percent"
+    },
+    {
+      "name": "SetMode",
+      "argument": "mode",
+      "property": "operatingMode",
+      "type": "identifier",
+      "minimum": 0,
+      "maximum": 0,
+      "unit": "identifier"
+    },
+    {
+      "name": "SetTargetHumidity",
+      "argument": "percent",
+      "property": "targetHumidityPercent",
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "unit": "percent"
+    },
+    {
+      "name": "SetColorTemperature",
+      "argument": "kelvin",
+      "property": "colorTemperatureKelvin",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 2147483647,
+      "unit": "kelvin"
+    }
+  ]
+}

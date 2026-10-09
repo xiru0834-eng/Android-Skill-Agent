@@ -1,0 +1,13 @@
+<resources>
+    <item name="libraryViewResult" type="id" />
+    <item name="executionLanguage" type="id" />
+    <item name="executionBack" type="id" />
+    <item name="executionStatus" type="id" />
+    <item name="executionSkill" type="id" />
+    <item name="executionMetrics" type="id" />
+    <item name="executionReason" type="id" />
+    <item name="executionDetails" type="id" />
+    <item name="executionRefresh" type="id" />
+    <item name="executionSkills" type="id" />
+    <item name="executionHome" type="id" />
+</resources>

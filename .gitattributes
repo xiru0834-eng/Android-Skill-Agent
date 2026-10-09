@@ -1,0 +1,9 @@
+# Preserve the exact bytes of the research snapshot and its source hash pins.
+*.java -text
+*.py -text
+*.xml -text
+*.json -text
+*.md text eol=lf
+*.gradle text eol=lf
+*.ps1 text eol=lf
+*.svg text eol=lf

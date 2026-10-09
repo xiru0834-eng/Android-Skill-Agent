@@ -1,0 +1,32 @@
+{
+  "contract_version": "1.0",
+  "valid_status": "CONTRACT_VALID",
+  "invalid_status": "CONTRACT_INVALID",
+  "cli_valid_exit": 0,
+  "cli_invalid_exit": 2,
+  "execution_authority": false,
+  "task_success_status_not_produced": true,
+  "error_codes": {
+    "INVALID_JSON": "JSON/UTF-8 无法解析、非有限数值或无效 Unicode。",
+    "DUPLICATE_FIELD": "同一 JSON 对象中字段重名，不接受后值覆盖。",
+    "INPUT_LIMIT": "字节、深度、节点或整数解析预算超限。",
+    "MISSING_FIELD": "合同必要字段缺失。",
+    "UNKNOWN_FIELD": "额外字段，包含坐标进入业务步骤、自授权或动态代码字段。",
+    "TYPE_MISMATCH": "类型不符；不做字符串转数字、浮点取整或 Boolean 转整数。",
+    "UNSUPPORTED_VERSION": "文档类型或 schema 版本未支持；不猜兼容性。",
+    "UNSUPPORTED_STEP": "未支持的步骤/谓词操作，包括 if、loop、shell 等。",
+    "UNKNOWN_CAPABILITY": "能力名不在实际八项注册表中。",
+    "UNKNOWN_PROPERTY": "属性不在同一注册表中。",
+    "CONSTRAINT_ERROR": "范围、枚举、步长、格式或固定安全规则不符合。",
+    "DUPLICATE_ID": "参数、步骤、实体、Binding、证据或未知项 ID 重复。",
+    "BAD_REFERENCE": "形参、顺序读数、版本、实体能力声明或证据引用错误。",
+    "CALL_LIMIT": "Flow call 数超过原协议上限 32。",
+    "DEPENDENCY_MISMATCH": "依赖的注册表摘要不同。",
+    "CONTRACT_CONFLICT": "改变/保持冲突，或终态目标未引用当前业务状态。",
+    "ENTITY_HOST_CONFUSION": "Android 宿主与业务实体被混用。",
+    "ENTITY_NOT_FOUND": "知识包中没有本次引用的业务实体。",
+    "UNSUPPORTED_CAPABILITY": "实体未声明相应能力；不是 App 实际执行能力证明。",
+    "INVALID_EVIDENCE": "声明验证范围却仅引用示例、审计或其他不适用证据。",
+    "FILE_ERROR": "显式输入文档无法读取；引用不会自动读取。"
+  }
+}

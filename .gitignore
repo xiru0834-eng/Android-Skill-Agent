@@ -1,0 +1,53 @@
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+local.properties
+*.keystore
+*.jks
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+credentials*
+secrets*
+bridge.token
+pairing*
+
+# Generated artifacts and IDE files
+**/build/
+.gradle/
+.idea/
+*.iml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.apk
+*.aab
+*.class
+*.dex
+
+# Local runtime data; public fixtures must be created explicitly in examples/
+private/
+backups/
+snapshots/
+runtime/
+output/
+evaluation/
+evidence/
+**/evidence/
+*.log
+*.tar
+*.zip
+*.sqlite*
+*.db
+approved-*.json
+*-local.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

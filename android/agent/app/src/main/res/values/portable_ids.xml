@@ -1,0 +1,6 @@
+<resources>
+    <item type="id" name="portableEntry"/><item type="id" name="portableLanguage"/><item type="id" name="portableBack"/>
+    <item type="id" name="portableTemplate"/><item type="id" name="portableImport"/><item type="id" name="portableIncoming"/>
+    <item type="id" name="portableExport"/><item type="id" name="portableInput"/><item type="id" name="portableUnderstand"/>
+    <item type="id" name="portableCalls"/><item type="id" name="portableStructured"/><item type="id" name="portableStop"/><item type="id" name="portableStatus"/>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <item name="parameterLanguage" type="id"/><item name="parameterBack" type="id"/>
+    <item name="parameterSource" type="id"/><item name="parameterSave" type="id"/>
+    <item name="parameterInput" type="id"/><item name="parameterUnderstand" type="id"/>
+    <item name="parameterStatus" type="id"/><item name="parameterCapability" type="id"/>
+    <item name="parameterValue" type="id"/><item name="parameterAdd" type="id"/>
+    <item name="parameterQueue" type="id"/><item name="parameterRun" type="id"/>
+    <item name="parameterClear" type="id"/><item name="parameterStop" type="id"/>
+    <item name="parameterResult" type="id"/><item name="libraryParameters" type="id"/>
+</resources>

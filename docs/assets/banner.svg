@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Android Skill Agent</title>
+  <desc id="desc">Demonstration-guided skills, parameterized execution and verified cross-device reuse research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1224"/><stop offset="1" stop-color="#182345"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <circle cx="1090" cy="80" r="130" fill="#6366F1" opacity=".08"/>
+  <circle cx="990" cy="285" r="155" fill="#22D3EE" opacity=".05"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="54" y="47" width="196" height="30" rx="15" fill="#243052"/>
+    <text x="70" y="67" fill="#B7C6EB" font-size="12" font-weight="700" letter-spacing="1.3">ANDROID AGENT RESEARCH</text>
+    <text x="54" y="144" fill="#F8FAFC" font-size="52" font-weight="700">Android Skill Agent</text>
+    <text x="57" y="182" fill="#A7B7D7" font-size="18">Teach once. Parameterize. Execute with evidence.</text>
+    <rect x="56" y="211" width="538" height="3" rx="1.5" fill="url(#accent)"/>
+    <g font-size="14" font-weight="700">
+      <rect x="55" y="245" width="111" height="42" rx="12" fill="#12384C"/>
+      <text x="78" y="271" fill="#67E8F9">OBSERVE</text>
+      <text x="181" y="270" fill="#64748B">→</text>
+      <rect x="208" y="245" width="107" height="42" rx="12" fill="#342652"/>
+      <text x="232" y="271" fill="#D8B4FE">SKILL</text>
+      <text x="330" y="270" fill="#64748B">→</text>
+      <rect x="357" y="245" width="111" height="42" rx="12" fill="#153D36"/>
+      <text x="378" y="271" fill="#86EFAC">RUNTIME</text>
+      <text x="483" y="270" fill="#64748B">→</text>
+      <rect x="510" y="245" width="106" height="42" rx="12" fill="#3F3524"/>
+      <text x="534" y="271" fill="#FDE68A">VERIFY</text>
+    </g>
+    <text x="56" y="333" fill="#7B90B6" font-size="12" letter-spacing=".9">SEMANTIC CONTRACTS  /  ACCESSIBILITY  /  GUARDED EXECUTION</text>
+    <rect x="759" y="98" width="126" height="204" rx="21" fill="#0D1830" stroke="#40567D" stroke-width="2"/>
+    <rect x="772" y="119" width="100" height="157" rx="10" fill="#1E3151"/>
+    <rect x="798" y="107" width="47" height="4" rx="2" fill="#54709B"/>
+    <rect x="940" y="139" width="196" height="135" rx="16" fill="#0D1830" stroke="#40567D" stroke-width="2"/>
+    <rect x="953" y="152" width="170" height="109" rx="8" fill="#1E3151"/>
+    <g fill="#53759B"><rect x="785" y="139" width="73" height="12" rx="5"/><rect x="966" y="167" width="116" height="10" rx="5"/></g>
+    <g fill="#22D3EE"><rect x="785" y="172" width="48" height="5" rx="2.5"/><circle cx="833" cy="174" r="8"/><rect x="967" y="196" width="99" height="5" rx="2.5"/><circle cx="1065" cy="199" r="8"/></g>
+    <g fill="#A78BFA"><rect x="785" y="205" width="67" height="5" rx="2.5"/><circle cx="852" cy="208" r="8"/><rect x="967" y="228" width="135" height="5" rx="2.5"/><circle cx="1102" cy="230" r="8"/></g>
+    <path d="M886 194H935" stroke="url(#accent)" stroke-width="3" stroke-dasharray="5 5"/>
+    <text x="775" y="324" fill="#7B90B6" font-size="12">PHONE</text>
+    <text x="972" y="297" fill="#7B90B6" font-size="12">EMULATOR / TABLET</text>
+  </g>
+</svg>

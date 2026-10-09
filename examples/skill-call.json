@@ -1,0 +1,4 @@
+{
+  "skill": "SetBrightness",
+  "args": {"device": "bedroom_light", "percent": 80}
+}

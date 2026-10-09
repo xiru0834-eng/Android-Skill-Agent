@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Research agent limited to SmartHome Lab, Transfer Bench and Room Controls. When explicitly recording, it saves your task goal, declared source and bounded control-state evidence locally. Reviewed workflows and bindings are stored separately. Only user-started tasks perform input. No password text, stored screenshots or network uploads.</string>
+</resources>

@@ -1,0 +1,756 @@
+{
+  "format": "p1_2_contract_grammar",
+  "version": "1.0",
+  "note": "Project-specific JSON grammar, NOT a general JSON Schema interpreter.",
+  "limits": {
+    "input_bytes": 65536,
+    "json_depth": 32,
+    "json_nodes": 4096,
+    "integer_bits": 2048,
+    "call_count": 32
+  },
+  "definitions": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*(?:[.:-][a-z0-9_]+)*$",
+      "max_length": 96
+    },
+    "name": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]{0,63}$",
+      "max_length": 64
+    },
+    "text": {
+      "type": "string",
+      "min_length": 1,
+      "max_length": 2000
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+      "max_length": 32
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$",
+      "max_length": 64
+    },
+    "scalar": {
+      "union": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]{0,31}$",
+          "max_length": 32
+        }
+      ]
+    },
+    "value": {
+      "tag": "kind",
+      "variants": {
+        "input": {
+          "record": {
+            "kind": {
+              "const": "input"
+            },
+            "name": {
+              "ref": "name"
+            }
+          }
+        },
+        "read": {
+          "record": {
+            "kind": {
+              "const": "read"
+            },
+            "step_id": {
+              "ref": "name"
+            }
+          }
+        },
+        "literal": {
+          "record": {
+            "kind": {
+              "const": "literal"
+            },
+            "value": {
+              "ref": "scalar"
+            }
+          }
+        },
+        "state": {
+          "record": {
+            "kind": {
+              "const": "state"
+            },
+            "entity_input": {
+              "ref": "name"
+            },
+            "property": {
+              "ref": "property"
+            }
+          }
+        },
+        "initial": {
+          "record": {
+            "kind": {
+              "const": "initial"
+            },
+            "entity_input": {
+              "ref": "name"
+            },
+            "property": {
+              "ref": "property"
+            }
+          }
+        }
+      }
+    },
+    "capability": {
+      "type": "string",
+      "enum": [
+        "SetPower",
+        "SetBrightness",
+        "SetTemperature",
+        "SetFanSpeed",
+        "SetCurtain",
+        "SetMode",
+        "SetTargetHumidity",
+        "SetColorTemperature"
+      ]
+    },
+    "property": {
+      "type": "string",
+      "enum": [
+        "power",
+        "brightnessPercent",
+        "temperatureCelsius",
+        "fanSpeedLevel",
+        "curtainPositionPercent",
+        "operatingMode",
+        "targetHumidityPercent",
+        "colorTemperatureKelvin"
+      ]
+    },
+    "target": {
+      "record": {
+        "entity_input": {
+          "ref": "name"
+        },
+        "property": {
+          "ref": "property"
+        }
+      }
+    },
+    "predicate": {
+      "tag": "op",
+      "variants": {
+        "known": {
+          "record": {
+            "op": {
+              "const": "known"
+            },
+            "value": {
+              "ref": "value"
+            }
+          }
+        },
+        "equals": {
+          "record": {
+            "op": {
+              "const": "equals"
+            },
+            "left": {
+              "ref": "value"
+            },
+            "right": {
+              "ref": "value"
+            }
+          }
+        }
+      }
+    },
+    "input": {
+      "tag": "type",
+      "variants": {
+        "entity": {
+          "record": {
+            "name": {
+              "ref": "name"
+            },
+            "default_rule": {
+              "const": "REQUIRE_EXPLICIT"
+            },
+            "type": {
+              "const": "entity"
+            },
+            "required_capabilities": {
+              "list": {
+                "ref": "capability"
+              },
+              "min": 1,
+              "max": 8,
+              "unique": true
+            }
+          }
+        },
+        "integer": {
+          "record": {
+            "name": {
+              "ref": "name"
+            },
+            "default_rule": {
+              "const": "REQUIRE_EXPLICIT"
+            },
+            "type": {
+              "const": "integer"
+            },
+            "minimum": {
+              "type": "integer"
+            },
+            "maximum": {
+              "type": "integer"
+            },
+            "step": {
+              "type": "integer",
+              "min": 1,
+              "max": 2147483647
+            },
+            "unit": {
+              "type": "string",
+              "enum": [
+                "percent",
+                "celsius",
+                "level",
+                "kelvin"
+              ]
+            }
+          }
+        },
+        "enum": {
+          "record": {
+            "name": {
+              "ref": "name"
+            },
+            "default_rule": {
+              "const": "REQUIRE_EXPLICIT"
+            },
+            "type": {
+              "const": "enum"
+            },
+            "choices": {
+              "list": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_]{0,31}$",
+                "max_length": 32
+              },
+              "min": 1,
+              "max": 256,
+              "unique": true
+            },
+            "unit": {
+              "const": "enum"
+            }
+          }
+        },
+        "identifier": {
+          "record": {
+            "name": {
+              "ref": "name"
+            },
+            "default_rule": {
+              "const": "REQUIRE_EXPLICIT"
+            },
+            "type": {
+              "const": "identifier"
+            },
+            "unit": {
+              "const": "identifier"
+            }
+          }
+        }
+      }
+    },
+    "step": {
+      "tag": "op",
+      "variants": {
+        "read": {
+          "record": {
+            "id": {
+              "ref": "name"
+            },
+            "op": {
+              "const": "read"
+            },
+            "target": {
+              "ref": "target"
+            }
+          }
+        },
+        "call": {
+          "record": {
+            "id": {
+              "ref": "name"
+            },
+            "op": {
+              "const": "call"
+            },
+            "capability": {
+              "ref": "capability"
+            },
+            "entity_input": {
+              "ref": "name"
+            },
+            "argument": {
+              "ref": "value"
+            }
+          }
+        },
+        "assert": {
+          "record": {
+            "id": {
+              "ref": "name"
+            },
+            "op": {
+              "const": "assert"
+            },
+            "predicate": {
+              "ref": "predicate"
+            }
+          }
+        }
+      }
+    },
+    "unknown": {
+      "record": {
+        "id": {
+          "ref": "id"
+        },
+        "description": {
+          "ref": "text"
+        },
+        "impact": {
+          "type": "string",
+          "enum": [
+            "BLOCKS_EXECUTION",
+            "INFORMATION_ONLY"
+          ]
+        }
+      }
+    },
+    "versionRef": {
+      "record": {
+        "id": {
+          "ref": "id"
+        },
+        "version": {
+          "ref": "version"
+        }
+      }
+    },
+    "evidenceRef": {
+      "list": {
+        "ref": "id"
+      },
+      "min": 0,
+      "max": 128,
+      "unique": true
+    },
+    "taskValue": {
+      "union": [
+        {
+          "record": {
+            "entity_id": {
+              "ref": "name"
+            }
+          }
+        },
+        {
+          "ref": "scalar"
+        }
+      ]
+    }
+  },
+  "roots": {
+    "FlowSkill": {
+      "record": {
+        "kind": {
+          "const": "FlowSkill"
+        },
+        "schema_version": {
+          "const": "1.0"
+        },
+        "id": {
+          "ref": "id"
+        },
+        "version": {
+          "ref": "version"
+        },
+        "purpose": {
+          "ref": "text"
+        },
+        "applicable_scenarios": {
+          "list": {
+            "ref": "text"
+          },
+          "min": 1,
+          "max": 16,
+          "unique": true
+        },
+        "inputs": {
+          "list": {
+            "ref": "input"
+          },
+          "min": 1,
+          "max": 32,
+          "unique": false
+        },
+        "preconditions": {
+          "list": {
+            "ref": "predicate"
+          },
+          "min": 0,
+          "max": 32,
+          "unique": false
+        },
+        "steps": {
+          "list": {
+            "ref": "step"
+          },
+          "min": 1,
+          "max": 96,
+          "unique": false
+        },
+        "goals": {
+          "list": {
+            "ref": "predicate"
+          },
+          "min": 1,
+          "max": 32,
+          "unique": false
+        },
+        "allowed_effects": {
+          "list": {
+            "ref": "target"
+          },
+          "min": 0,
+          "max": 32,
+          "unique": true
+        },
+        "must_preserve": {
+          "list": {
+            "ref": "target"
+          },
+          "min": 0,
+          "max": 32,
+          "unique": true
+        },
+        "verification": {
+          "record": {
+            "read_current": {
+              "const": true
+            },
+            "preserve_unmentioned": {
+              "const": true
+            },
+            "unknown_result": {
+              "const": "UNCONFIRMED"
+            }
+          }
+        },
+        "failure_policy": {
+          "record": {
+            "on_error": {
+              "const": "STOP"
+            },
+            "automatic_rollback": {
+              "const": false
+            },
+            "business_action_retries": {
+              "const": 0
+            }
+          }
+        },
+        "dependencies": {
+          "record": {
+            "registry_sha256": {
+              "ref": "sha256"
+            },
+            "capabilities": {
+              "list": {
+                "ref": "capability"
+              },
+              "min": 1,
+              "max": 8,
+              "unique": true
+            },
+            "call_protocol": {
+              "const": "semantic_parameter_calls_v2"
+            },
+            "read_contract": {
+              "const": "semantic_state_read_v1"
+            }
+          }
+        },
+        "evidence_refs": {
+          "ref": "evidenceRef"
+        },
+        "unknowns": {
+          "list": {
+            "ref": "unknown"
+          },
+          "min": 0,
+          "max": 32,
+          "unique": false
+        },
+        "declared_scope": {
+          "list": {
+            "ref": "text"
+          },
+          "min": 1,
+          "max": 16,
+          "unique": true
+        },
+        "verified_scope": {
+          "list": {
+            "record": {
+              "inputs": {
+                "map": {
+                  "ref": "taskValue"
+                },
+                "keys": {
+                  "ref": "name"
+                },
+                "max": 32
+              },
+              "environment_ref": {
+                "ref": "id"
+              },
+              "evidence_refs": {
+                "list": {
+                  "ref": "id"
+                },
+                "min": 1,
+                "max": 128,
+                "unique": true
+              },
+              "status": {
+                "const": "REFERENCE_ONLY_NOT_INDEPENDENTLY_VERIFIED"
+              }
+            }
+          },
+          "min": 0,
+          "max": 128,
+          "unique": false
+        }
+      }
+    },
+    "AppKnowledgePackage": {
+      "record": {
+        "kind": {
+          "const": "AppKnowledgePackage"
+        },
+        "schema_version": {
+          "const": "1.0"
+        },
+        "id": {
+          "ref": "id"
+        },
+        "version": {
+          "ref": "version"
+        },
+        "flow_refs": {
+          "list": {
+            "ref": "versionRef"
+          },
+          "min": 1,
+          "max": 32,
+          "unique": true
+        },
+        "environment": {
+          "record": {
+            "environment_id": {
+              "ref": "id"
+            },
+            "app_package": {
+              "ref": "text"
+            },
+            "app_version": {
+              "ref": "text"
+            },
+            "ui_revision": {
+              "ref": "id"
+            }
+          }
+        },
+        "entities": {
+          "list": {
+            "record": {
+              "entity_id": {
+                "ref": "name"
+              },
+              "capabilities": {
+                "list": {
+                  "ref": "capability"
+                },
+                "min": 1,
+                "max": 8,
+                "unique": true
+              }
+            }
+          },
+          "min": 1,
+          "max": 128,
+          "unique": false
+        },
+        "bindings": {
+          "list": {
+            "record": {
+              "id": {
+                "ref": "id"
+              },
+              "entity_id": {
+                "ref": "name"
+              },
+              "property": {
+                "ref": "property"
+              },
+              "role": {
+                "ref": "text"
+              },
+              "resource_id": {
+                "ref": "text"
+              },
+              "bounds": {
+                "list": {
+                  "type": "integer",
+                  "min": 0,
+                  "max": 2147483647
+                },
+                "min": 4,
+                "max": 4,
+                "unique": false
+              },
+              "page_route": {
+                "list": {
+                  "ref": "text"
+                },
+                "min": 0,
+                "max": 32,
+                "unique": false
+              },
+              "evidence_refs": {
+                "list": {
+                  "ref": "id"
+                },
+                "min": 1,
+                "max": 128,
+                "unique": true
+              }
+            }
+          },
+          "min": 0,
+          "max": 128,
+          "unique": false
+        },
+        "documentation_refs": {
+          "ref": "evidenceRef"
+        },
+        "evidence": {
+          "list": {
+            "record": {
+              "id": {
+                "ref": "id"
+              },
+              "kind": {
+                "type": "string",
+                "enum": [
+                  "AUDIT_REFERENCE",
+                  "ILLUSTRATIVE",
+                  "OBSERVATION_REFERENCE",
+                  "EXECUTION_REFERENCE"
+                ]
+              },
+              "ref": {
+                "ref": "text"
+              },
+              "description": {
+                "ref": "text"
+              }
+            }
+          },
+          "min": 1,
+          "max": 128,
+          "unique": false
+        },
+        "unknowns": {
+          "list": {
+            "ref": "unknown"
+          },
+          "min": 0,
+          "max": 32,
+          "unique": false
+        }
+      }
+    },
+    "Task": {
+      "record": {
+        "kind": {
+          "const": "Task"
+        },
+        "schema_version": {
+          "const": "1.0"
+        },
+        "id": {
+          "ref": "id"
+        },
+        "flow_ref": {
+          "ref": "versionRef"
+        },
+        "package_ref": {
+          "ref": "versionRef"
+        },
+        "inputs": {
+          "map": {
+            "ref": "taskValue"
+          },
+          "keys": {
+            "ref": "name"
+          },
+          "min": 1,
+          "max": 32
+        },
+        "host_device_id": {
+          "ref": "id"
+        },
+        "authorization_ref": {
+          "ref": "id"
+        },
+        "budget": {
+          "record": {
+            "duration_ms": {
+              "type": "integer",
+              "min": 1,
+              "max": 2147483647
+            },
+            "max_actions": {
+              "type": "integer",
+              "min": 0,
+              "max": 2147483647
+            },
+            "max_model_calls": {
+              "type": "integer",
+              "min": 0,
+              "max": 2147483647
+            }
+          }
+        },
+        "cancellation_token_ref": {
+          "ref": "id"
+        }
+      }
+    }
+  }
+}

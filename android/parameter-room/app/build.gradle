@@ -1,0 +1,31 @@
+plugins { id 'com.android.application' }
+
+// AGP 8 adaptation is build-only: the frozen source manifest is not rewritten.
+def generatedManifest = layout.buildDirectory.file('generated/submission/AndroidManifest.xml')
+def prepareSubmissionManifest = tasks.register('prepareSubmissionManifest') {
+    inputs.file('src/main/AndroidManifest.xml')
+    outputs.file(generatedManifest)
+    doLast {
+        def target = generatedManifest.get().asFile
+        target.parentFile.mkdirs()
+        target.setText(file('src/main/AndroidManifest.xml').getText('UTF-8')
+            .replaceFirst(/\s+package="[^"]*"/, ''), 'UTF-8')
+    }
+}
+android {
+    namespace 'edu.sydney.parameterroom'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'edu.sydney.parameterroom'
+        minSdk 30
+        targetSdk 34
+        versionCode 6
+        versionName '0.8-parameter-room'
+    }
+    sourceSets.main.manifest.srcFile(generatedManifest.get().asFile)
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+tasks.named('preBuild').configure { dependsOn prepareSubmissionManifest }

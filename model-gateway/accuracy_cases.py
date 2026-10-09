@@ -1,0 +1,35 @@
+"""Authored, pre-labelled bilingual holdout. Never executable skill definitions."""
+
+# concept, category, catalog variant, expected role or None, Chinese, English.
+SPECS=[
+ ('literal-reading','literal','duplicate','reading','请你现在运行「阅读60」流程！','Activate the saved "Reading60" workflow!'),
+ ('literal-lamp','literal','reversed','lamp','运行保存的只灯60技能！','Please execute "LampOnly60"!'),
+ ('literal-bright','literal','near','bright','启动明亮80流程！','Start my saved "Bright80" skill!'),
+ ('natural-reading','natural-name','base','reading','我选的是阅读60这个已保存技能，请现在照着它做。','The stored workflow I am choosing is Reading60; carry it out now.'),
+ ('natural-lamp','natural-name','reversed','lamp','这次采用只灯60这条保存过的流程，立即执行。','For this run, use the existing LampOnly60 workflow exactly as saved.'),
+ ('natural-fan','natural-name','base','fan','按只风扇低档这条技能做吧，不要重新设计操作。','Carry out the saved FanOnlyLow routine rather than creating a new procedure.'),
+ ('goal-reading','full-goals','reversed','reading','请把阅读灯打开，亮度固定六成；风扇也打开，速度低档。','Set the reading lamp to ON and sixty percent brightness, and the fan to ON at low speed.'),
+ ('goal-bright','full-goals','base','bright','两台都打开：阅读灯亮度八成，风扇高速运行。','Both devices should be ON: the lamp at eighty percent brightness and the fan at high speed.'),
+ ('goal-hundred','full-goals','base','hundred','打开阅读灯并调至全亮，同时开风扇到低档。','Switch the reading lamp ON at full brightness and the fan ON at low speed.'),
+ ('scope-lamp','single-device','base','lamp','只处理阅读灯：打开并设为六成；风扇所有设置原样保留。','Only adjust the reading lamp: ON at sixty percent. Preserve every fan setting as it currently is.'),
+ ('scope-fan','single-device','near','fan','阅读灯的开关和亮度都别改，只打开风扇并设置低档。','Leave both lamp power and brightness untouched; only turn the fan ON and set its speed to low.'),
+ ('scope-lamp-again','single-device','reversed','lamp','风扇保持现状；我只需要阅读灯打开、亮度60%。','Keep the fan exactly as it is. I only need the reading lamp ON with brightness at 60 percent.'),
+ ('contrast-low','close-alternative','near','near','灯打开到80%，风扇打开低档，注意不是明亮80里的高档。','Lamp ON at 80 percent and fan ON at low speed, not the high-speed Bright80 settings.'),
+ ('contrast-reading','close-alternative','near','reading','风扇打开低档，阅读灯打开六成，不是八成。','Fan ON at low speed; lamp ON at sixty percent, not eighty percent.'),
+ ('contrast-bright','close-alternative','near','bright','我要灯打开80%，风扇打开高档，不是低档的组合。','I want lamp ON at 80 percent and fan ON at high speed, not the low-speed combination.'),
+ ('no-execute','no-action','base',None,'我只是说一下阅读60这个名字，别启动任何流程。','I am only mentioning the name Reading60; do not start any workflow.'),
+ ('explain','no-action','reversed',None,'只灯60会改哪些设备？只回答问题，不要执行。','Which devices would LampOnly60 change? Answer the question without running it.'),
+ ('quote','no-action','near',None,'把“执行明亮80”翻译成英文就好，不要控制设备。','Translate "execute Bright80" into Chinese; this is a translation request, not device control.'),
+ ('condition-temperature','condition','base',None,'等室温高于26度才执行阅读60；我没说现在满足条件。','Execute Reading60 only when room temperature exceeds 26 degrees; that condition is not established now.'),
+ ('condition-departure','condition','reversed',None,'我离开房间以后再启动只风扇低档，现在先别做。','Start FanOnlyLow after I leave the room, but do nothing now.'),
+ ('schedule','condition','base',None,'明亮80安排在十分钟后执行，不是立即运行。','Schedule Bright80 for ten minutes from now, rather than executing it immediately.'),
+ ('missing-lamp-brightness','incomplete','base',None,'请开阅读灯，但亮度我还没有选。','Turn the reading lamp on, but I have not chosen a brightness yet.'),
+ ('missing-fan-power','incomplete','near',None,'把风扇速度设为低档，开着还是关着我没有要求。','Set fan speed to low; I have not requested whether its power should be on or off.'),
+ ('missing-reference','incomplete','reversed',None,'帮我运行刚才那个模式，我没有指明是哪条技能。','Run that mode for me; I have not specified which saved workflow I mean.'),
+ ('override-brightness','parameter-change','base',None,'按阅读60执行，但把灯亮度替换为40%，其他按原技能。','Carry out Reading60 but replace its lamp brightness with forty percent; keep its other settings.'),
+ ('override-speed','parameter-change','near',None,'用只风扇低档，不过这次把速度改成中档。','Use FanOnlyLow, except change its speed to medium for this run.'),
+ ('override-scope','parameter-change','base',None,'执行明亮80，但是不许改变风扇，只能改灯。','Execute Bright80, but do not change the fan; only modify the lamp.'),
+ ('ambiguous-equivalent','catalog','duplicate',None,'灯打开60%，风扇打开低档；两条相同目标技能我没指定名字。','Lamp ON at sixty percent and fan ON at low speed; I have not chosen between the two workflows with these targets.'),
+ ('missing-saved','catalog','removed',None,'我想马上运行保存的阅读60，而不是换成别的模式。','I want the saved Reading60 routine now, not a replacement workflow.'),
+ ('unsupported-room','catalog','base',None,'打开卧室空调到24度，其他设备都别动。','Turn the bedroom air conditioner ON at twenty-four degrees; leave all other devices alone.')
+]

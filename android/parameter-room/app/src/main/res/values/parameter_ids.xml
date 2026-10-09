@@ -1,0 +1,6 @@
+<resources>
+    <item type="id" name="psPage"/><item type="id" name="psLightPower"/>
+    <item type="id" name="psAcPower"/><item type="id" name="psBrightness"/>
+    <item type="id" name="psTemperature"/><item type="id" name="psStatus"/>
+    <item type="id" name="psMissing"/>
+</resources>
